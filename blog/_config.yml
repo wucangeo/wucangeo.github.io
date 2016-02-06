@@ -7,8 +7,8 @@ title: 吴灿的博客
 subtitle:
 description:
 author: 吴灿
-language:zh
-timezone:Asia/Shanghai
+language: zh
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -68,6 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
-  type: github
+  type: git
   repository: git@github.com:wucangeo/wucangeo.github.io.git
   branch: master
