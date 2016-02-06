@@ -1,2 +1,0 @@
-# wucangeo.github.io
-blog
