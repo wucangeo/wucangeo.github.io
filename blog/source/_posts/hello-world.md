@@ -36,7 +36,9 @@ $ hexo deploy
 ```
 
 ### short and bash
+
 ``` bash
 $ hexo clean && hexo deploy --generate
+```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
