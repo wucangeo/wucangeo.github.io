@@ -41,4 +41,7 @@ $ hexo deploy
 $ hexo clean && hexo deploy --generate
 ```
 
+### test hexo install
+
+
 More info: [Deployment](https://hexo.io/docs/deployment.html)

@@ -37,6 +37,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+
 highlight:
   enable: true
   line_number: true
@@ -69,5 +70,6 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repository: git@github.com:wucangeo/wucangeo.github.io.git
-  branch: master
+  repo: 
+   github: git@github.com:wucangeo/wucangeo.github.io.git,master
+   gitcafe: git@gitcafe.com:wucangeo/wucangeo.gitcafe.io.git,master
