@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://wucan.cc
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
@@ -61,6 +61,10 @@ time_format: HH:mm:ss
 per_page: 20
 pagination_dir: page
 
+plugins:
+  hexo-generator-feed
+  hexo-generator-sitemap
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/ landscape
@@ -72,4 +76,4 @@ deploy:
   type: git
   repo: 
    github: git@github.com:wucangeo/wucangeo.github.io.git,master
-   gitcafe: git@gitcafe.com:wucangeo/wucangeo.gitcafe.io.git,master
+   gitcafe: git@gitcafe.com:wucangeo/wucangeo.gitcafe.io.git,gitcafe-pages
