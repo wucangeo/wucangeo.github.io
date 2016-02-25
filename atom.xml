@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>吴灿的博客</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://wucan.cc/"/>
+  <updated>2016-02-25T11:02:24.397Z</updated>
+  <id>http://wucan.cc/</id>
+  
+  <author>
+    <name>吴灿</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hao123</title>
+    <link href="http://wucan.cc/hao123/"/>
+    <id>http://wucan.cc/hao123/</id>
+    <published>2016-02-24T12:38:41.000Z</published>
+    <updated>2016-02-25T11:02:24.397Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;strong&gt;Search&lt;/strong&gt;：    &lt;a href=&quot;https://www.google.com.hk/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google hk&lt;/a&gt;    &lt;a href=&quot;https://www.google.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google&lt;/a&gt;    &lt;a href=&quot;https://www.google.com/ncr&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Goole NCR&lt;/a&gt;    &lt;a href=&quot;http://cn.bing.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Bing&lt;/a&gt;    &lt;a href=&quot;https://www.sogou.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;搜狗&lt;/a&gt;    &lt;a href=&quot;https://www.baidu.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度&lt;/a&gt;    &lt;a href=&quot;https://www.so.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;360So&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;News&lt;/strong&gt;：  &lt;a href=&quot;https://news.google.com.hk&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Goole News&lt;/a&gt;    &lt;a href=&quot;http://news.baidu.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度新闻&lt;/a&gt;    &lt;a href=&quot;https://www.reddit.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;reddit&lt;/a&gt;    &lt;a href=&quot;http://www.bbc.com/zhongwen/simp&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;BBC&lt;/a&gt;        &lt;a href=&quot;http://cn.rfi.fr/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;法广&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Develop&lt;/strong&gt;：     &lt;a href=&quot;http://www.huxiu.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;虎嗅&lt;/a&gt;        &lt;a href=&quot;https://github.com/wucangeo&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Github&lt;/a&gt;    &lt;a href=&quot;https://gitcafe.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitCafe&lt;/a&gt;    &lt;a href=&quot;https://portal.qiniu.com/bucket/wucan-cc/resource&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;七牛云&lt;/a&gt;    &lt;a href=&quot;https://segmentfault.com/blogs/hottest&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;segmentfault&lt;/a&gt;    &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Social&lt;/strong&gt;：&lt;a href=&quot;http://weibo.com/country731/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;新浪微博&lt;/a&gt;    &lt;a href=&quot;http://www.oiegg.com/index.php&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;蛋蛋网&lt;/a&gt;    &lt;a href=&quot;https://www.zhihu.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;知乎&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mail&lt;/strong&gt;：    &lt;a href=&quot;https://mail.google.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Gmail&lt;/a&gt;    &lt;a href=&quot;http://mail.163.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;163邮箱&lt;/a&gt;    &lt;a href=&quot;https://mail.qq.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;QQ邮箱&lt;/a&gt;    &lt;a href=&quot;http://mail.sina.com.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;新浪邮箱&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Special&lt;/strong&gt;：     &lt;a href=&quot;http://zhihu.sogou.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;搜知乎&lt;/a&gt;    &lt;a href=&quot;http://weixin.sogou.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;搜微信&lt;/a&gt;    &lt;a href=&quot;http://so.chongbuluo.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;虫部落&lt;/a&gt;    &lt;a href=&quot;http://so.baiduyun.me/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;搜百度云&lt;/a&gt;    &lt;a href=&quot;http://kaopu.so/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;靠谱搜&lt;/a&gt;    &lt;a href=&quot;&quot;&gt;&lt;/a&gt;    &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research&lt;/strong&gt;：    &lt;a href=&quot;http://www.cnki.net/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CNKI&lt;/a&gt;    &lt;a href=&quot;http://sci-hub.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;SCI-Hub&lt;/a&gt;    &lt;a href=&quot;&quot;&gt;&lt;/a&gt;    &lt;a href=&quot;&quot;&gt;&lt;/a&gt;    &lt;a href=&quot;&quot;&gt;&lt;/a&gt;    &lt;a href=&quot;&quot;&gt;&lt;/a&gt;    &lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;：    &lt;a href=&quot;https://serve.netsh.org/pub/ipv4-hosts/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hosts&lt;/a&gt;    &lt;a href=&quot;https://about.me/wucan&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;About.Me&lt;/a&gt;    &lt;a href=&quot;&quot;&gt;&lt;/a&gt;    &lt;a href=&quot;&quot;&gt;&lt;/a&gt;    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Service&lt;/strong&gt;：    &lt;a href=&quot;https://ebsnew.boc.cn/boc15/login.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;中国银行&lt;/a&gt;    &lt;a href=&quot;https://pbank.95559.com.cn/personbank/logon.jsp&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;交通银行&lt;/a&gt;    &lt;a href=&quot;http://www.189.cn/bj/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;中国电信&lt;/a&gt;    &lt;a href=&quot;http://www.10086.cn/ah/index_551_552.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;中国移动&lt;/a&gt;    &lt;a href=&quot;http://www.10010.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;中国联通&lt;/a&gt;    &lt;a href=&quot;https://kyfw.12306.cn/otn/index/init&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;12306&lt;/a&gt;    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Financial&lt;/strong&gt;：    &lt;a href=&quot;http://xueqiu.com/4966405731&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;雪球&lt;/a&gt;    &lt;a href=&quot;http://www.eastmoney.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;东方财富&lt;/a&gt;    &lt;a href=&quot;&quot;&gt;&lt;/a&gt;    &lt;a href=&quot;&quot;&gt;&lt;/a&gt;    &lt;a href=&quot;&quot;&gt;&lt;/a&gt;    &lt;a href=&quot;&quot;&gt;&lt;/a&gt;    &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;Search&lt;/strong&gt;：    &lt;a href=&quot;https://www.google.com.hk/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google hk&lt;/a&gt;    &lt;a href=&quot;https://www.goo
+    
+    </summary>
+    
+    
+      <category term="工具" scheme="http://wucan.cc/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://wucan.cc/hello-world/"/>
+    <id>http://wucan.cc/hello-world/</id>
+    <published>2016-02-24T08:30:05.752Z</published>
+    <updated>2016-02-24T08:30:05.752Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;short-and-bash&quot;&gt;&lt;a href=&quot;#short-and-bash&quot; class=&quot;headerlink&quot; title=&quot;short and bash&quot;&gt;&lt;/a&gt;short and bash&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo clean &amp;amp;&amp;amp; hexo deploy --generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;test-hexo-install&quot;&gt;&lt;a href=&quot;#test-hexo-install&quot; class=&quot;headerlink&quot; title=&quot;test hexo install&quot;&gt;&lt;/a&gt;test hexo install&lt;/h3&gt;&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
