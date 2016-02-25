@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wucan.cc/"/>
-  <updated>2016-02-25T11:02:24.397Z</updated>
+  <updated>2016-02-25T14:49:47.109Z</updated>
   <id>http://wucan.cc/</id>
   
   <author>
@@ -14,6 +14,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>about</title>
+    <link href="http://wucan.cc/about/"/>
+    <id>http://wucan.cc/about/</id>
+    <published>2016-02-25T14:05:10.000Z</published>
+    <updated>2016-02-25T14:49:47.109Z</updated>
+    
+    <content type="html">&lt;p&gt;{:.center}&lt;br&gt;&lt;a href=&quot;http://wucan.cc/about/&quot;&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fabout%2Fportrait.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;br&gt;  &lt;strong&gt;&lt;code&gt;Student&lt;/code&gt;&lt;/strong&gt;   &lt;code&gt;Web Develop&lt;/code&gt;&lt;br&gt;  &lt;a href=&quot;https://github.com/wucangeo/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fabout%2Fgithub.png&quot; alt=&quot;&quot;&gt;&lt;/a&gt;  &lt;a href=&quot;https://www.facebook.com/wucan1989&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fabout%2Ffacebook.png&quot; alt=&quot;&quot;&gt;&lt;/a&gt;  &lt;a href=&quot;wucangeo@gmail.com&quot;&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fabout%2Fgmail.png&quot; alt=&quot;&quot;&gt;&lt;/a&gt;  &lt;a href=&quot;http://weibo.com/country731&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fabout%2Fweibo.png&quot; alt=&quot;&quot;&gt;&lt;/a&gt;  &lt;a href=&quot;https://www.zhihu.com/people/wucan&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fabout%2Fzhihu.png&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;{:.center}&lt;br&gt;&lt;a href=&quot;http://wucan.cc/about/&quot;&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fabout%2Fportrait.jpg&quot; alt=
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>hao123</title>
