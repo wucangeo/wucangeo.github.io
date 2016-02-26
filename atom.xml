@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>吴灿的博客</title>
-  
+  <title>CX</title>
+  <subtitle>吴灿的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wucan.cc/"/>
-  <updated>2016-02-26T12:44:31.965Z</updated>
+  <updated>2016-02-26T13:22:05.952Z</updated>
   <id>http://wucan.cc/</id>
   
   <author>
@@ -14,6 +14,167 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>concept-of-investment</title>
+    <link href="http://wucan.cc/concept-of-investment-1/"/>
+    <id>http://wucan.cc/concept-of-investment-1/</id>
+    <published>2016-02-26T13:22:05.000Z</published>
+    <updated>2016-02-26T13:22:05.952Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>concept-of-investment</title>
+    <link href="http://wucan.cc/concept-of-investment/"/>
+    <id>http://wucan.cc/concept-of-investment/</id>
+    <published>2016-02-26T13:08:54.000Z</published>
+    <updated>2016-02-26T13:21:51.916Z</updated>
+    
+    <content type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&quot;1-股票分类&quot;&gt;&lt;a href=&quot;#1-股票分类&quot; class=&quot;headerlink&quot; title=&quot;1 股票分类&quot;&gt;&lt;/a&gt;1 股票分类&lt;/h1&gt;&lt;p&gt;我国上市公司的股票有A股、B股、H股、N股和S股等的区分。这一区分主要依据股票的上市地点和所面对的投资者而定。　&lt;/p&gt;
+&lt;p&gt;A股的正式名称是人民币普通股票。它是由我同境内的公司发行,供境内机构、组织或个人（不含台、港、澳投资者）以人民币认购和交易的普通股股票,我国A股股票市场经过几年快速发展,已经初具规模。&lt;/p&gt;
+&lt;p&gt;B股的正式名称是人民币特种股票,它是以人民币标明面值, 以外币认购和买卖,在境内（上海、深圳）证券交易所上市交易的。它的投资人限于：外国的自然人、法人和其他组织,香港、澳门、台湾地区的自然人、法人和其他组织,定居在国外的中国公民。中国证监会规定的其他投资人。现阶段B股的投资人,主要是上述几类中的机构投资者。B股公司的注册地和上市地都在境内。只不过投资者在境外或在中国香港,澳门及台湾。&lt;/p&gt;
+&lt;p&gt;H股,即注册地在内地、上市地在香港的外资股。香港的英文是HOngKOng,取其字首,在港上市外资股就叫做H股。依此类推,纽约的第一个英文字母是N,新加坡的第一个英文字母是S,纽约和新加坡上市的股票就分别叫做N股和S股。&lt;/p&gt;
+&lt;h1 id=&quot;2-什么是ST股和PT股&quot;&gt;&lt;a href=&quot;#2-什么是ST股和PT股&quot; class=&quot;headerlink&quot; title=&quot;2 什么是ST股和PT股&quot;&gt;&lt;/a&gt;2 什么是ST股和PT股&lt;/h1&gt;&lt;p&gt;ST（Special Treatment）股：特殊处理的股票。指财务状况或其它状况出现异常的上市公司股票。&lt;/p&gt;
+&lt;p&gt;沪深证券交易所在1998年4月22日宣布,根据1998年实施的股票上市规则,将对财务状况或其它状况出现异常的上市公司的股票交易进行特别处理。&lt;/p&gt;
+&lt;p&gt;上述财务状况或其它状况出现异常主要是指两种情况,一是上市公司经审计连续两个会计年度的净利润均为负值,二是上市公司最近一个会计年度经审计的每股净资产低于股票面值。在上市公司的股票交易被实行特别处理期间,其股票交易应遵循下列规则：（1）股票报价日涨跌幅限制为5％；（2）股票名称改为原股票名前加 “ST”,例如“ST辽物资”；（3）上市公司的中期报告必须审计。由于对ST股票实行日涨跌幅度限制为5％,也在一定程度上抑制了庄家的刻意炒作。投资者对于特别处理的股票也要区别对待．具体问题具体分析,有些ST股主要是经营性亏损,那么在短期内很难通过加强管理扭亏为盈。有些ST股是由于特殊原因造成的亏损,或者有些ST股正在进行资产重组,则这些股票往往潜力巨大。&lt;/p&gt;
+&lt;p&gt;PT（Particular Transfer）股：特别转让的股票。为暂停上市股票提供流通渠道的“特别转让服务”。&lt;/p&gt;
+&lt;p&gt;根据《公司法》和证券法的规定,上市公司出现连续三年亏损等情况,其股票将暂停上市。沪深交易所从1999年7月9日起,对这类暂停上市的股票实施“特别转让服务”。&lt;/p&gt;
+&lt;p&gt;特别转让与正常股票交易主要有四点区别：（1）交易时间不同。特别转让仅限于每周五的开市时间内进行,而非逐日持续交易。（2）涨跌幅限制不同。特别转让股票申报价不得超过上一次转让价格的上下5％,与ST股票的日涨跌幅相同。（3）撮合方式不同,特别转让是交易所于收市后一次性对该股票当天所有有效申报按集合竞价方式进行撮合,产生唯一的成交价格,所有符合成交条件的委托盘均按此价格成交。（4）交易性质不同。特别转让股票不是上市交易,因此,这类股票不计入指数计算,成交数不计入市场统计,其转让信息也不在交易所行情中显示,只由指定报刊设专栏在次日公告。&lt;/p&gt;
+&lt;h1 id=&quot;3-股市原理&quot;&gt;&lt;a href=&quot;#3-股市原理&quot; class=&quot;headerlink&quot; title=&quot;3 股市原理&quot;&gt;&lt;/a&gt;3 股市原理&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;惯性原理：处于涨势或者跌势的时候，其趋势一般将延续。&lt;/li&gt;
+&lt;li&gt;波浪原理：跌有多深则涨也有多高；量足则价升。&lt;/li&gt;
+&lt;li&gt;极静思动：价狭而量缩往往预示着大行情的来临。&lt;/li&gt;
+&lt;li&gt;物极必反：行情发展到极端状态时将朝着它的反向运行。&lt;/li&gt;
+&lt;li&gt;一致性：当长期和短期的趋势都一致时其威力最大。&lt;/li&gt;
+&lt;li&gt;转折交叉：当短期和长期趋势发生矛盾时可能会变盘。&lt;/li&gt;
+&lt;li&gt;成本原理：当买入的成本小于市场成本时风险较小。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&quot;4-基本术语&quot;&gt;&lt;a href=&quot;#4-基本术语&quot; class=&quot;headerlink&quot; title=&quot;4 基本术语&quot;&gt;&lt;/a&gt;4 基本术语&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;主板：主板市场也称为一板市场，指传统意义上的证券市场（通常指股票市场），是一个国家或地区证券发行、上市及交易的主要场所。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;创业板：又称二板市场即第二股票交易市场，是与主板市场不同的一类证券市场，专为暂时无法在主板上市的创业型企业、中小企业和高科技产业企业等需要进行融资和发展的企业提供融资途径和成长空间的证券交易市场，是对主板市场的重要补充，在资本市场有着重要的位置。&lt;br&gt;新三板：原指中关村科技园区非上市股份有限公司进入代办股份系统进行转让试点，因为挂牌企业均为高科技企业而不同于原转让系统内的退市企业及原STAQ、NET系统挂牌公司，故形象地称为“新三板”。目前，新三板不再局限于中关村科技园区非上市股份有限公司，也不局限于天津滨海、武汉东湖以及上海张江等试点地的非上市股份有限公司，而是全国性的非上市股份有限公司股权交易平台，主要针对的是中小微型企业。&lt;br&gt;蓝筹股：是指稳定的现金股利政策对公司现金流管理有较高的要求，通常将那些经营业绩较好，具有稳定且较高的现金股利支付的公司股票称为“蓝筹股”。蓝筹股多指长期稳定增长的、大型的、传统工业股及金融股。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;红筹股：这一概念诞生于90年代初期的香港股票市场。中华人民共和国在国际上有时被称为红色中国，相应地，香港和国际投资者把在境外注册、在香港上市的那些带有中国大陆概念的股票称为红筹股。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;牛市：股票市场上买入者多于卖出者,股市行情看涨称为牛市。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;熊市：熊市与牛市相反。股票市场上卖出者多于买入者,股市行情看跌称为熊市。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;开盘价：是指当日开盘后该股票的第一笔交易成交的价格。如果开市后30分钟内无成交价,则以前日的收盘价作为开盘价。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;收盘价：指每天成交中最后一笔股票的价格,也就是收盘价格。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;最高价：是指当日所成交的价格中的最高价位。有时最高价只有一笔,有时也不止一笔。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;最低价：是指当日所成交的价格中的最低价位。有时最低价只有一笔,有时也不止一笔。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;绩优股：是指那些业绩优良,但增长速度较慢的公司的股票。这类公司有实力抵抗经济衰退,但这类公司并不能给你带来振奋人心的利润。因为这类公司业务较为成熟,不需要花很多钱来扩展业务,所以投资这类公司的目的主要在于拿股息。另外,投资这类股票时,市盈率不要太高,同时要注意股价在历史上经济不景气时波动的记录。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;热门股：是指交易量大、流通性强、股价变动幅度较大的股票。&lt;/li&gt;
+&lt;li&gt;成长股：是指这样一些公司所发行的股票,它们的销售额和利润额持续增长,而且其速度快于整个国家和本行业的增长。这些公司通常有宏图伟略,注重科研,留有大量利润作为再投资以促进其扩张。&lt;/li&gt;
+&lt;li&gt;手：它是国际上通用的计算成交股数的单位。必须是手的整数倍才能办理交易。目前一般以100股为一手进行交易。即购买股票至少必须购买100股。&lt;/li&gt;
+&lt;li&gt;成交量：反映成交的数量多少。一般可用成交股数和成交金额两项指标来衡量。目前深沪股市两项指标均能显示出来&lt;/li&gt;
+&lt;li&gt;价位：指喊价的升降单位。价位的高低随股票的每股市价的不同而异。以上海证券交易所为例：每股市价末满100元价位是0.10元,每股市价100-200元 价位是0.20元 每股市价200-300元 价位是0.30元,每股市价300-400元价位是0.50元 每股市价400元以上 价位是1.00元&lt;/li&gt;
+&lt;li&gt;停牌：股票由于某种消息或进行某种活动引起股价的连续上涨或下跌,由证券交易所暂停其在股票市场上进行交易。待情况澄清或企业恢复正常后,再复牌在交易所挂牌交易。&lt;/li&gt;
+&lt;li&gt;涨跌：以每天的收盘价与前一天的收盘价相比较,来决定股价是涨还是跌。一般在交易台上方的公告牌上用”+””-“号表示。&lt;/li&gt;
+&lt;li&gt;涨(跌)停板：交易所规定的股价一天中涨（跌）最大幅度为前一日收盘价的百分数,不能超过此限,否则自动停止交易。&lt;/li&gt;
+&lt;li&gt;开高盘：是指开盘价比前一天收盘价高出许多。&lt;/li&gt;
+&lt;li&gt;开低盘：是指开盘价比前一天收盘价低出许多。&lt;/li&gt;
+&lt;li&gt;盘档：是指投资者不积极买卖,多采取观望态度,使当天股价的变动幅度很小,这种情况称为盘档。&lt;/li&gt;
+&lt;li&gt;整理：是指股价经过一段急剧上涨或下跌后,开始小幅度波动,进入稳定变动阶段,这种现象称为整理,整理是下一次大变动的准备阶段。&lt;/li&gt;
+&lt;li&gt;跳空：指受强烈利多或利空消息刺激,股价开始大幅度跳动。跳空通常在股价大变动的开始或结束前出现。&lt;/li&gt;
+&lt;li&gt;市盈率：市盈率是某种股票每股市价与每股盈利的比率。（市盈率＝普通股每股市场价格÷普通股每年每股盈利）上式中的分子是当前的每股市价,分母可用最近一年盈利,也可用未来一年或几年的预测盈利。市盈率是估计普通股价值的最基本、最重要的指标之一。一般认为该比率保持在20－30之间是正常的,过小说明股价低,风险小,值得购买；过大则说明股价高,风险大,购买时应谨慎。但高市盈率股票多为热门股,低市盈率股票可能为冷门股。&lt;/li&gt;
+&lt;li&gt;回档：是指股价上升过程中,因上涨过速而暂时回跌的现象。&lt;/li&gt;
+&lt;li&gt;反弹：是指在下跌的行情中,股价有时由于下跌速度太快,受到买方支撑暂时回升的现象。反弹幅度较下跌幅度小,反弹后恢复下跌趋势。&lt;/li&gt;
+&lt;li&gt;多头：对股票后市看好,先行买进股票,等股价涨至某个价位,卖出股票赚取差价的人。&lt;/li&gt;
+&lt;li&gt;空头：是指认为股价已上涨到了最高点,很快便会下跌,或当股票已开始下跌时,认为还会继续下跌,趁高价时卖出的投资者。&lt;/li&gt;
+&lt;li&gt;多头市场：也称牛市,就是股价普遍上涨的市场。&lt;/li&gt;
+&lt;li&gt;空头市场：股价呈长期下降趋势的市场,空头市场中,股价的变动情况是大跌小涨。亦称熊市。&lt;/li&gt;
+&lt;li&gt;多翻空：原本看好行情的多头,看法改变,卖出手中的股票,有时还借股票卖出,这种行为称为翻空或多翻空。&lt;/li&gt;
+&lt;li&gt;空翻多：原本作空头者,改变看法,把卖出的股票买回,有时还买进更多的股票,这种行为称为空翻多。&lt;/li&gt;
+&lt;li&gt;买空：预计股价将上涨,因而买入股票,在实际交割前,再将买入的股票卖掉,实际交割时收取差价或补足差价的一种投机行为。&lt;/li&gt;
+&lt;li&gt;卖空：预计股价将下跌,因而卖出股票,在发生实际交割前,将卖出股票如数补进,交割时,只结清差价的投机行为。&lt;/li&gt;
+&lt;li&gt;利空：促使股价下跌,对空头有利的因素和消息。&lt;/li&gt;
+&lt;li&gt;利多：是刺激股价上涨,对多头有利的因素和消息。&lt;/li&gt;
+&lt;li&gt;套牢：是指预期股价上涨,不料买进后,股价路下跌；或是预期股价下跌,卖出股票后,股价却一路上涨,前者称多头套牢,后者是空头套牢。&lt;/li&gt;
+&lt;li&gt;大户：就是大额投资人,例如财团、信托公司以及其它拥有庞大资金的集团或个人。&lt;/li&gt;
+&lt;li&gt;中户：指投资额较大的投资人。&lt;/li&gt;
+&lt;li&gt;散户：就是买卖股票数量很少的小额投资者。&lt;/li&gt;
+&lt;li&gt;经纪人：执行客户命令,买卖证券、商品或其他财产,并为此收取佣金者。&lt;/li&gt;
+&lt;li&gt;抢短线：预期股价上涨,先低价买进后再在短期内以高价卖出。预期股价下跌,先高价卖出再伺机在短期内以低价再回购。&lt;/li&gt;
+&lt;li&gt;盘整：股价经过一段快捷上升或下降后,遭遇阻力或支撑而呈小幅涨跌变动,做换手整理。&lt;/li&gt;
+&lt;li&gt;抬拉：抬拉是用非常方法,将股价大幅度抬起。通常大户在抬拉之后便大抛出以牟取暴利。&lt;/li&gt;
+&lt;li&gt;打压：是用非常方法,将股价大幅度压低。通常大户在打压之后便大量买进以取暴利。&lt;/li&gt;
+&lt;li&gt;黑马：是指股价在一定时间内,上涨一倍或数倍的股票。&lt;/li&gt;
+&lt;li&gt;白马：是指股价已形成慢慢涨的长升通道,还有一定的上涨空间。&lt;/li&gt;
+&lt;li&gt;骗线：大户利用股民们迷信技术分析数据、图表的心理,故意抬拉、打压股指,致使技术图表形成一定线型,引诱股民大量买进或卖出,从而达到他们大发其财的目的。这种期骗性造成的技术图表线型称为骗线。&lt;/li&gt;
+&lt;li&gt;技术分析：以供求关系为基础对市场和股票进行的分析研究。技术分析研究价格动向、交易量、交易趋势和形式,并制图表示上述因素,用图预测当前市场行为对未来证券的供求关系和个人持有的证券可能发生的影响。&lt;/li&gt;
+&lt;li&gt;基本分析：根据销售额、资产、收益、产品或服务、市场和管理等因素对企业进行分析。亦指对宏观政治、经济、军事动态的分析,以预测它们对股市的影响。&lt;/li&gt;
+&lt;li&gt;非上市股票：不在证券交易所注册挂牌的股票。&lt;/li&gt;
+&lt;li&gt;委托书：股东委托他人(其他股东)代表自己在股东大会上行使投票权的书面证明。&lt;/li&gt;
+&lt;li&gt;周转率：股票交易的股数占交易所上市流通的股票股数的百分比。&lt;/li&gt;
+&lt;li&gt;认股权证：股票发行公司增发新股票时,发给公司原股东的以优惠价格购买一定数量股票的证书。认股权证通常都有时间限制,过时无 效。在有效期内持有人可以将其卖出或转让。&lt;/li&gt;
+&lt;li&gt;除权：股票除权前一日收盘价减去所含权的差价,即为除权。&lt;br&gt;派息：股票前一日收盘价减去上市公司发放的股息称为派息。&lt;/li&gt;
+&lt;li&gt;含权：凡是有股票有权未送配的均称含权。&lt;/li&gt;
+&lt;li&gt;填权：除权后股价上升,将除权差价补回,称为填权。&lt;/li&gt;
+&lt;li&gt;增资：上市公司为业务需求经常会办理增资（有偿配股）或资本公积新增资（无偿配股）。&lt;/li&gt;
+&lt;li&gt;配股：公司增发新股时,按股东所有人份数,以特价（低于市价）分配给股东认购。&lt;/li&gt;
+&lt;li&gt;坐轿子：预测股价将涨,抢在众人前以低价先行买进,待众多散户跟进、股价节节升高后,卖出获利。&lt;/li&gt;
+&lt;li&gt;抬轿子：在别人早已买进后才醒悟,也跟着买进,结果是把股价抬高让他人获利,而自己买进的股价已非低价,无利可图。&lt;/li&gt;
+&lt;li&gt;下轿子：坐轿客逢高获利结算为下轿子。&lt;/li&gt;
+&lt;li&gt;阻力线：股价上涨到达某一价位附近,如有大量的卖出情形,使股价停止上扬,甚至回跌的价。&lt;/li&gt;
+&lt;li&gt;支撑线：股价下跌到在某一价位附近,如有大量买进情形,使股价停止下跌甚至回升的价位。&lt;/li&gt;
+&lt;li&gt;跳空：股市受到强烈利多或利空消息的刺激,股价开始大幅跳动,在上涨时,当天的开盘或最低价,高于前一天的收盘价两个申报单位以上,称”跳空而上”；下跌时,当天的天盘或最高价低于前一天的收盘价两个申报单位,而于一天的交易中,上涨或下跌超过一个申报单位,称”跳空而下”。&lt;/li&gt;
+&lt;li&gt;填空：指将跳空出现时将没有交易的空价位补回来,也就是股价跳空后,过一段时间将回到跳空前价位,以填补跳空价位。&lt;/li&gt;
+&lt;li&gt;回档：上升趋势中,因股价上涨过速而回跌,以调整价位的现象。&lt;br&gt;天价：个别股票由多头市场转为空头市场时的最高价。&lt;/li&gt;
+&lt;li&gt;突破：指股价经过一段盘档时间后,产生的一种价格波动。&lt;/li&gt;
+&lt;li&gt;探底：股价持续跌挫至某价位时便止跌回升,如此一次或数次。&lt;/li&gt;
+&lt;li&gt;头部：股价上涨至某价位时便遇阻力而下滑。&lt;/li&gt;
+&lt;li&gt;挂进：买进股票的意思。&lt;/li&gt;
+&lt;li&gt;挂出：卖出股票的意思&lt;/li&gt;
+&lt;li&gt;开平盘：指今日的开盘价与前一营业日的收盘价相同。&lt;/li&gt;
+&lt;li&gt;近期趋势：20～30天为近期趋势。&lt;/li&gt;
+&lt;li&gt;全额交割：是证券主管机关对重整公司或发生重大问题的上市公司之股票,特别制定的买卖交割力法。&lt;/li&gt;
+&lt;li&gt;洗盘：做手为达到炒作目的,必须于途中让低价买进,且意志不坚的轿客下轿,以减轻上档压力,同时让持股者的平均价位升高,以利于施行养、套、杀的手段。&lt;/li&gt;
+&lt;li&gt;对敲转帐：转帐交易的一种方式。这是证券经纪商赚取投资利润的一种手段。经纪商们经低价买进股票,并收取客户的佣金,再以高价卖给另一客户,这样就赚取了大量利润&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;5-涨跌幅&quot;&gt;&lt;a href=&quot;#5-涨跌幅&quot; class=&quot;headerlink&quot; title=&quot;5 涨跌幅&quot;&gt;&lt;/a&gt;5 涨跌幅&lt;/h1&gt;&lt;p&gt;涨跌幅=(现价-上一个交易日收盘价）/上一个交易日收盘价*100%&lt;/p&gt;
+&lt;h1 id=&quot;6-小盘、中盘、大盘&quot;&gt;&lt;a href=&quot;#6-小盘、中盘、大盘&quot; class=&quot;headerlink&quot; title=&quot;6 小盘、中盘、大盘&quot;&gt;&lt;/a&gt;6 小盘、中盘、大盘&lt;/h1&gt;&lt;p&gt;小盘的定义是流通市值在A股平均流通市值以下的股票。&lt;/p&gt;
+&lt;p&gt;一般流通股本在1个亿以上的个股称为大盘股；5000万至1个亿的个股称为中盘般；不到5000万规模的称为小盘股。&lt;/p&gt;
+&lt;p&gt;就市盈率而言,相同业绩的个股,小盘股的市盈率比中盘股高,中盘股要比大盘股高。特别在市场疲软时,小盘股机会较多。在牛市时大盘股和中盘股较适合大资金的进出,因此盘子大的个股比较看好。由于流通盘大,对指数影响大,往往成为市场调控指数的工具。投资者选择个股,一般熊市应选小盘股和中小盘股,牛市应选大盘股和中大盘股。&lt;/p&gt;
+&lt;h1 id=&quot;7-抢权&quot;&gt;&lt;a href=&quot;#7-抢权&quot; class=&quot;headerlink&quot; title=&quot;7 抢权&quot;&gt;&lt;/a&gt;7 抢权&lt;/h1&gt;&lt;p&gt;股票在除权的前夕,由于要送、配股,股价大幅飙升,这一现象被称为抢权。&lt;/p&gt;
+&lt;h1 id=&quot;8-抄底&quot;&gt;&lt;a href=&quot;#8-抄底&quot; class=&quot;headerlink&quot; title=&quot;8 抄底&quot;&gt;&lt;/a&gt;8 抄底&lt;/h1&gt;&lt;p&gt;指以某种估值指标衡量股价跌倒最低点,尤其是短时间内大幅下跌时买入,预期股价将会很快反弹的操作策略。&lt;/p&gt;
+&lt;p&gt;买最便宜的股票是所有投资者都向往的投资机遇,更是价值型投资者信奉的盈利模式。但是,究竟什么样的价格就是“最便宜”,或称“底”,并没有明确的标准。抄底往往是对已经发生的在最低点买入的描述,但很难判断未来什么样的点位是底部。此外,有些股价快速下跌并不是因为低估,往往是因为公司基本面确实发生的了问题,如果在这个时候买入,不仅股价不会很快反弹,相反,在基本面未明了前还有进一步下跌的可能。投资大师彼得.林奇有句名言就是,“不要抄底”。意思是,如果投资者确信在公司基本面没有出现大的问题时股价下跌到合理估值水平之下,就可以考虑购买,而不必试图预期底部。&lt;/p&gt;
+&lt;h1 id=&quot;9-横盘&quot;&gt;&lt;a href=&quot;#9-横盘&quot; class=&quot;headerlink&quot; title=&quot;9 横盘&quot;&gt;&lt;/a&gt;9 横盘&lt;/h1&gt;&lt;p&gt;横盘指股市上经常会出现股价徘徊缓滞的局面,在一定时期内既不涨上去,也不跌下来。k线组合呈现出“一”字型的图形。这种情况一般出现在底部或者是庄家在洗盘吸货,投资者这时不应参与操作,应注意观察,等形态走好,再介入搭顺风车。&lt;/p&gt;
+&lt;h1 id=&quot;10-对敲&quot;&gt;&lt;a href=&quot;#10-对敲&quot; class=&quot;headerlink&quot; title=&quot;10 对敲&quot;&gt;&lt;/a&gt;10 对敲&lt;/h1&gt;&lt;p&gt;是股票投资者(庄家或大的机构投资者)的一种交易的手法。具体操作方法在多家营业部同时开户,以拉锯方式在各营业部之间报价交易,以达到操纵股价的目的。&lt;/p&gt;
+&lt;h1 id=&quot;11-上证指数&quot;&gt;&lt;a href=&quot;#11-上证指数&quot; class=&quot;headerlink&quot; title=&quot;11 上证指数&quot;&gt;&lt;/a&gt;11 上证指数&lt;/h1&gt;&lt;p&gt;上证指数,广义说如上4类16种：&lt;br&gt;1、样本指数类4种 （1.沪深300 2.上证180 3.上证50 4.红利指数 ）&lt;br&gt;2、综合指数类2种 （1.上证指数 2.新综指 ）&lt;br&gt;3、分类指数类7种 （1.A股指数 2.B股指数 3.工业指数 4.商业指数 5.地产指数 6.公用指数 7.综合指数 ）&lt;br&gt;4、其他指数类3种 （1.基金指数 2.国债指数 3.企债指数 ）&lt;/p&gt;
+&lt;p&gt;狭义说就是专指上证综合指数,其样本股是全部上市股票,包括A股和B股,从总体上反映了上海证券交易所上市股价的变动情况,自1991年7月15日起正式发布。&lt;/p&gt;
+&lt;p&gt;上证指数”全称“上海证券交易所综合股价指数”,是国内外普遍采用的反映上海股市总体走势的统计指标。&lt;/p&gt;
+&lt;p&gt;上证指数由上海证券交易所编制,于1991年7月15日公开发布,上证提数以”点”为单位,基日定为1990年12月19日。基日提数定为100点。随着上海股票市场的不断发展,于1992年2月21日,增设上证A股指数。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&quot;1-股票分类&quot;&gt;&lt;a href=&quot;#1-股票分类&quot; class=&quot;headerlink&quot; title=&quot;1 股票分类&quot;&gt;&lt;/a&gt;1 股票分类&lt;/h1&gt;&lt;p&gt;我国上市公司的股票有A股、B股、H股、N股和S股等的区分。这一区分主要依据股票的上
+    
+    </summary>
+    
+      <category term="Investment" scheme="http://wucan.cc/categories/Investment/"/>
+    
+    
+      <category term="理财" scheme="http://wucan.cc/tags/%E7%90%86%E8%B4%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>about</title>
@@ -39,7 +200,7 @@
     <link href="http://wucan.cc/hao123/"/>
     <id>http://wucan.cc/hao123/</id>
     <published>2016-02-24T12:38:41.000Z</published>
-    <updated>2016-02-25T11:02:24.397Z</updated>
+    <updated>2016-02-26T13:21:45.604Z</updated>
     
     <content type="html">&lt;p&gt;&lt;strong&gt;Search&lt;/strong&gt;：    &lt;a href=&quot;https://www.google.com.hk/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google hk&lt;/a&gt;    &lt;a href=&quot;https://www.google.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google&lt;/a&gt;    &lt;a href=&quot;https://www.google.com/ncr&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Goole NCR&lt;/a&gt;    &lt;a href=&quot;http://cn.bing.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Bing&lt;/a&gt;    &lt;a href=&quot;https://www.sogou.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;搜狗&lt;/a&gt;    &lt;a href=&quot;https://www.baidu.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度&lt;/a&gt;    &lt;a href=&quot;https://www.so.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;360So&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;News&lt;/strong&gt;：  &lt;a href=&quot;https://news.google.com.hk&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Goole News&lt;/a&gt;    &lt;a href=&quot;http://news.baidu.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度新闻&lt;/a&gt;    &lt;a href=&quot;https://www.reddit.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;reddit&lt;/a&gt;    &lt;a href=&quot;http://www.bbc.com/zhongwen/simp&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;BBC&lt;/a&gt;        &lt;a href=&quot;http://cn.rfi.fr/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;法广&lt;/a&gt; &lt;/p&gt;
@@ -58,6 +219,8 @@
       &lt;p&gt;&lt;strong&gt;Search&lt;/strong&gt;：    &lt;a href=&quot;https://www.google.com.hk/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google hk&lt;/a&gt;    &lt;a href=&quot;https://www.goo
     
     </summary>
+    
+      <category term="Develop" scheme="http://wucan.cc/categories/Develop/"/>
     
     
       <category term="工具" scheme="http://wucan.cc/tags/%E5%B7%A5%E5%85%B7/"/>
