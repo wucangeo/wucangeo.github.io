@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>CX</title>
-  <subtitle>吴灿的博客</subtitle>
+  <title>CX&#39;s Blog</title>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wucan.cc/"/>
