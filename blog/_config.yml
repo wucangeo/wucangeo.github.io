@@ -71,8 +71,6 @@ feed:
   limit: 20
   hub:
 
-# Theme Settings
-jiathis: true
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
