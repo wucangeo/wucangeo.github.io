@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 吴灿的博客
-subtitle:
+title: CX's Blog
+subtitle: 
 description:
 author: 吴灿
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -65,10 +65,19 @@ plugins:
   hexo-generator-feed
   hexo-generator-sitemap
 
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+
+# Theme Settings
+jiathis: true
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/ landscape
-theme: maupassant
+theme: hexo-theme-next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
