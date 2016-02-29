@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wucan.cc/"/>
-  <updated>2016-02-29T05:21:27.370Z</updated>
+  <updated>2016-02-29T05:06:28.584Z</updated>
   <id>http://wucan.cc/</id>
   
   <author>
@@ -14,22 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://wucan.cc/test/"/>
-    <id>http://wucan.cc/test/</id>
-    <published>2016-02-29T05:21:27.000Z</published>
-    <updated>2016-02-29T05:21:27.370Z</updated>
-    
-    <content type="html"></content>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>markdown 速查手册</title>
