@@ -1,7 +1,7 @@
 ---
-title: markdown-book
+title: markdown 速查手册
 date: 2016-02-28 22:36:40
-tags: hexo, markdown
+tags: hexo
 categories: Develop
 ---
 

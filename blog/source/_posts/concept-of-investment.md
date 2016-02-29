@@ -3,7 +3,6 @@ title: 投资股票入门概念
 date: 2016-02-26 21:08:54
 tags: 理财
 categories: Investment
-toc: true
 ---
 
 # 1 股票分类
