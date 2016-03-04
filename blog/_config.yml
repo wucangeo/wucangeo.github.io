@@ -83,4 +83,5 @@ deploy:
   type: git
   repo: 
    github: git@github.com:wucangeo/wucangeo.github.io.git,master
-   gitcafe: git@gitcafe.com:wucangeo/wucangeo.gitcafe.io.git,gitcafe-pages
+   coding: git@git.coding.net:wucan/wucan.coding.io.git,coding-pages
+   # gitcafe: git@gitcafe.com:wucangeo/wucangeo.gitcafe.io.git,gitcafe-pages
