@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wucan.cc/"/>
-  <updated>2016-02-29T05:06:28.584Z</updated>
+  <updated>2016-03-04T05:33:28.954Z</updated>
   <id>http://wucan.cc/</id>
   
   <author>
@@ -14,6 +14,71 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>黑龙江开发区土地利用动态监测系统</title>
+    <link href="http://wucan.cc/project-landuse/"/>
+    <id>http://wucan.cc/project-landuse/</id>
+    <published>2016-03-04T04:15:25.000Z</published>
+    <updated>2016-03-04T05:33:28.954Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;黑龙江开发区土地利用动态监测系统-2015-05-至今&quot;&gt;&lt;a href=&quot;#黑龙江开发区土地利用动态监测系统-2015-05-至今&quot; class=&quot;headerlink&quot; title=&quot;黑龙江开发区土地利用动态监测系统 2015-05~至今&quot;&gt;&lt;/a&gt;黑龙江开发区土地利用动态监测系统 2015-05~至今&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;项目背景&lt;ul&gt;
+&lt;li&gt;研发管理监测网站对移动端采集的地理数据入库更新、数据分析，多级部门联合管理，辅助决策。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;承担工作&lt;ul&gt;
+&lt;li&gt;网站的所有功能的开发，包括数据库设计、后端功能实现、前端网页编写；&lt;/li&gt;
+&lt;li&gt;网站主要功能包括：数据模型统计分析、通知发布与管理、与移动端数据上传对接、用户权限管理、Web GIS 地图功能等11个功能模块44个功能点（还在开发中）；&lt;/li&gt;
+&lt;li&gt;网站部署上线，阿里云服务器维护。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;使用技术&lt;ul&gt;
+&lt;li&gt;网站前端框架为 Ext JS，使用 JavaScript 及 Ajax 实现前端组件与数据交互；&lt;/li&gt;
+&lt;li&gt;Spring MVC 的 Java 开发框架作为网站后台，Hibernate 实现网站数据持久化；&lt;/li&gt;
+&lt;li&gt;使用 Spring Security 作为用户权限管理解决方案；&lt;/li&gt;
+&lt;li&gt;使用ArcGIS Server for JavaScript API 完成WebGIS地图分析功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;企业动态监控&quot;&gt;&lt;a href=&quot;#企业动态监控&quot; class=&quot;headerlink&quot; title=&quot;企业动态监控&quot;&gt;&lt;/a&gt;企业动态监控&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fprojects%2Flanduse%2Fenterprise.jpg&quot; alt=&quot;企业动态监控&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;专题统计分析&quot;&gt;&lt;a href=&quot;#专题统计分析&quot; class=&quot;headerlink&quot; title=&quot;专题统计分析&quot;&gt;&lt;/a&gt;专题统计分析&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fprojects%2Flanduse%2Fthematic.jpg&quot; alt=&quot;专题统计分析&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;土地利用现状调查&quot;&gt;&lt;a href=&quot;#土地利用现状调查&quot; class=&quot;headerlink&quot; title=&quot;土地利用现状调查&quot;&gt;&lt;/a&gt;土地利用现状调查&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fprojects%2Flanduse%2Flanduse.jpg&quot; alt=&quot;土地利用现状调查&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;集约利用评价&quot;&gt;&lt;a href=&quot;#集约利用评价&quot; class=&quot;headerlink&quot; title=&quot;集约利用评价&quot;&gt;&lt;/a&gt;集约利用评价&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fprojects%2Flanduse%2Fevaluate.jpg&quot; alt=&quot;集约利用评价&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;强度潜力测算&quot;&gt;&lt;a href=&quot;#强度潜力测算&quot; class=&quot;headerlink&quot; title=&quot;强度潜力测算&quot;&gt;&lt;/a&gt;强度潜力测算&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fprojects%2Flanduse%2Findensity.jpg&quot; alt=&quot;强度潜力测算&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;法律法规查询&quot;&gt;&lt;a href=&quot;#法律法规查询&quot; class=&quot;headerlink&quot; title=&quot;法律法规查询&quot;&gt;&lt;/a&gt;法律法规查询&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fprojects%2Flanduse%2Flaws.jpg&quot; alt=&quot;法律法规查询&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;通知公告发布&quot;&gt;&lt;a href=&quot;#通知公告发布&quot; class=&quot;headerlink&quot; title=&quot;通知公告发布&quot;&gt;&lt;/a&gt;通知公告发布&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fprojects%2Flanduse%2Fnews.jpg&quot; alt=&quot;通知公告发布&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;系统权限管理&quot;&gt;&lt;a href=&quot;#系统权限管理&quot; class=&quot;headerlink&quot; title=&quot;系统权限管理&quot;&gt;&lt;/a&gt;系统权限管理&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fprojects%2Flanduse%2Fsystem.jpg&quot; alt=&quot;系统权限管理&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;黑龙江开发区土地利用动态监测系统-2015-05-至今&quot;&gt;&lt;a href=&quot;#黑龙江开发区土地利用动态监测系统-2015-05-至今&quot; class=&quot;headerlink&quot; title=&quot;黑龙江开发区土地利用动态监测系统 2015-05~至今&quot;&gt;&lt;/a&gt;黑龙江开发
+    
+    </summary>
+    
+      <category term="projects" scheme="http://wucan.cc/categories/projects/"/>
+    
+    
+      <category term="项目经历" scheme="http://wucan.cc/tags/%E9%A1%B9%E7%9B%AE%E7%BB%8F%E5%8E%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>landuse</title>
+    <link href="http://wucan.cc/landuse/"/>
+    <id>http://wucan.cc/landuse/</id>
+    <published>2016-03-04T04:15:03.000Z</published>
+    <updated>2016-03-04T04:15:03.512Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>markdown 速查手册</title>
