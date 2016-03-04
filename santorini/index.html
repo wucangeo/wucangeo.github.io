@@ -1,158 +1,366 @@
 <!DOCTYPE html>
 <html>
+
 <head lang="en">
     <title>Santorini</title>
     <meta charset="UTF-8">
-    <meta http-equiv="x-ua-compatible" content="IE=edge chrome=1"/>
-    <link href="http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fsantorini%2Fstyle.css" rel="stylesheet"/>
-
-<!-- wucan.cc Baidu tongji analytics -->
-<script>
-var _hmt = _hmt || [];
-(function() {
-var hm = document.createElement("script");
-hm.src = "//hm.baidu.com/hm.js?ae4ebdef419e4fa49a0e041059e56191";
-var s = document.getElementsByTagName("script")[0];
-s.parentNode.insertBefore(hm, s);
-})();
-</script>
-
+    <meta http-equiv="x-ua-compatible" content="IE=edge chrome=1" />
+    <link href="http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fsantorini%2Fstyle.css" rel="stylesheet" />
+    body {
+        margin: 0px;
+        background: url("http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fsantorini%2Fbackground.jpg");
+        background-position: 0 80px;
+        background-size: 100% 525px;
+        background-repeat: no-repeat;
+        background-color: #E2E2E2;
+    }
+    
+    a:link,
+    a:visited {
+        color: #ffffff;
+        text-decoration: none;
+    }
+    
+    header {
+        width: 100%;
+        height: 80px;
+        background-color: #333333;
+        position: relative;
+    }
+    
+    #header_center {
+        width: 980px;
+        /*width: 100%;*/
+        height: 80px;
+        margin: 0px auto;
+        position: relative;
+    }
+    
+    #div_logo {
+        position: absolute;
+        font-size: 30px;
+        font-family: Arial;
+        font-weight: bold;
+        color: #ffffff;
+        left: 0px;
+        bottom: 0px;
+    }
+    
+    #div_nav {
+        position: absolute;
+        bottom: 5px;
+        right: 5px;
+        color: #ffffff;
+    }
+    
+    #div_nav span {
+        / / display: inline-block;
+        font-size: 14px;
+        / / margin: 0 px 14 px;
+        margin-right: 18px;
+    }
+    
+    #git_logo {
+        position: absolute;
+        bottom: 0px;
+        right: 10px;
+    }
+    
+    #content {
+        position: relative;
+    }
+    
+    #img_content_container {
+        width: 980px;
+        margin: 0px auto;
+        position: relative;
+    }
+    
+    #img_content {
+        width: 360px;
+        height: 120px;
+        box-sizing: border-box;
+        background: linear-gradient(to bottom, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0));
+        padding: 10px 10px 30px 10px;
+        position: absolute;
+        right: 0px;
+        top: 405px;
+    }
+    
+    #img_content h2 {
+        font-size: 14px;
+        text-align: right;
+        margin: 0 0 12px 0;
+    }
+    
+    #img_content p {
+        height: 54px;
+        font-size: 12px;
+        margin-top: 0px;
+        line-height: 1.5em;
+        text-indent: 24px;
+        padding: 0px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+    }
+    
+    #gallery_container {
+        clear: both;
+        width: 990px;
+        margin: 0 auto;
+        margin-top: 525px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .gallery {
+        background-color: #ffffff;
+        width: 320px;
+        height: 360px;
+        margin: 10px 5px 0px 5px;
+    }
+    
+    .gallery img {
+        width: 300px;
+        height: 180px;
+        margin: 10px 10px 0px 10px;
+    }
+    
+    .gallery p {
+        margin: 15px 30px 30px 30px;
+        font-size: 12px;
+        line-height: 1.7em;
+        text-indent: 24px;
+        color: #333333;
+    }
+    
+    #adds {
+        margin-top: 110px;
+        width: 100%;
+        height: 350px;
+        background-color: #ffffff;
+    }
+    
+    #center_logo {
+        width: 120px;
+        height: 120px;
+        clear: both;
+        position: absolute;
+        left: 50%;
+        margin-left: -40px;
+        margin-top: -50px;
+        border-radius: 60px;
+    }
+    
+    #adds_content {
+        clear: both;
+        position: absolute;
+        width: 600px;
+        left: 50%;
+        margin: 50px 0 0 -300px;
+    }
+    
+    #adds h2 {
+        text-align: center;
+        font-size: 40px;
+        margin-top: 50px;
+        font-family: Kunstler Script;
+    }
+    
+    #adds p {
+        clear: both;
+        box-sizing: border-box;
+        font: 14px Times New Roman;
+        font-style: italic;
+        line-height: 1.7em;
+        text-indent: 15px;
+    }
+    
+    footer {
+        width: 100%;
+        height: 350px;
+        background-color: #000000;
+        position: relative;
+    }
+    
+    #footer_nav,
+    #copyright {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    #footer_nav span {
+        margin: 15px 16px;
+    }
+    
+    #footer_center hr {
+        margin: 0px;
+        height: 1px;
+        border: 0px;
+        background-image: linear-gradient(to right, #ccc, #ffffff, #ccc);
+    }
+    
+    #footer_map {
+        clear: both;
+        width: 990px;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .link_map {
+        width: 188px;
+    }
+    
+    .link_map dd,
+    .link_map dt {
+        color: #ffffff;
+        font-size: 12px;
+        line-height: 2em;
+    }
+    
+    .link_map dt {
+        margin: 20px auto 20px 40px;
+    }
+    
+    #copyright {
+        color: #ffffff;
+        font: 14px arial, helvetica, verdana, sans-serif;
+    }
+    </style>
+    <!-- wucan.cc Baidu tongji analytics -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?ae4ebdef419e4fa49a0e041059e56191";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
 </head>
+
 <body>
-<header>
-    <div id="header_center">
-        <div id="div_logo"><a href="index.html" target="_self">Santorini</a></div>
-        <div id="div_nav">
-            <span><a href="index.html">首页</a></span>
-            <span><a href="blog.html">文章</a></span>
-            <span><a href="gallery.html">作品</a></span>
-            <span><a href="about.html">关于</a></span>
+    <header>
+        <div id="header_center">
+            <div id="div_logo"><a href="index.html" target="_self">Santorini</a></div>
+            <div id="div_nav">
+                <span><a href="index.html">首页</a></span>
+                <span><a href="blog.html">文章</a></span>
+                <span><a href="gallery.html">作品</a></span>
+                <span><a href="about.html">关于</a></span>
+            </div>
+        </div>
+    </header>
+    <div id="content">
+        <div id="img_content_container">
+            <div id="img_content">
+                <h2>圣托里尼岛</h2>
+                <p>圣托里尼岛(Santorini)古名为希拉(Thera)，后来为纪念圣·爱莲（SaintIrene）， 于1207年被改为圣托里尼。其是爱琴海诸岛中较有名气的岛屿，距雅典110海里，是基克拉泽斯群岛中最南边的一座岛。 圣托里尼岛由3个小岛组成，其中2个岛有人居住，中间的1个岛是沉睡的火山岛。
+                </p>
+            </div>
         </div>
     </div>
-</header>
-<div id="content">
-    <div id="img_content_container">
-        <div id="img_content">
-            <h2>圣托里尼岛</h2>
-
-            <p>圣托里尼岛(Santorini)古名为希拉(Thera)，后来为纪念圣·爱莲（SaintIrene），
-                于1207年被改为圣托里尼。其是爱琴海诸岛中较有名气的岛屿，距雅典110海里，是基克拉泽斯群岛中最南边的一座岛。
-                圣托里尼岛由3个小岛组成，其中2个岛有人居住，中间的1个岛是沉睡的火山岛。
+    <div id="gallery_container">
+        <div class="gallery">
+            <img src="http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fsantorini%2Fpic1.jpg">
+            <p>伊亚（Oia）的小镇，它地处希腊的王冠圣托里尼岛，是岛上最耀眼的明珠， 也是一个拥有全世界最美的日落的地方。 Oia有着全世界最著名的日落、 最漂亮的教堂、最迷人的白色小屋。 走在Oia，身上的每一个细胞都能感到，这里就是人间的天堂。
+            </p>
+        </div>
+        <div class="gallery">
+            <img src="http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fsantorini%2Fpic2.jpg">
+            <p>圣托里尼岛上的白色教堂既多又美，那种居高临下的气势令人神往。 岛上有一座建与于1840年的圆柱形的圣十字教堂，外形非常独特。
+            </p>
+        </div>
+        <div class="gallery">
+            <img src="http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fsantorini%2Fpic3.jpg">
+            <p>“世界最美十大书店”之一，站在书店阳台可俯视希腊桑托里尼火山岛全景， 在这里尤其适合观海，而且这里无与伦比的落日景致也非常有名。 书店由一群艺术家共同打理，因此时常组织话剧演出、放映露天电影。
             </p>
         </div>
     </div>
-</div>
-<div id="gallery_container">
-    <div class="gallery">
-        <img src="http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fsantorini%2Fpic1.jpg">
-
-        <p>伊亚（Oia）的小镇，它地处希腊的王冠圣托里尼岛，是岛上最耀眼的明珠，
-            也是一个拥有全世界最美的日落的地方。 Oia有着全世界最著名的日落、
-            最漂亮的教堂、最迷人的白色小屋。
-            走在Oia，身上的每一个细胞都能感到，这里就是人间的天堂。</p>
-    </div>
-    <div class="gallery">
-        <img src="http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fsantorini%2Fpic2.jpg">
-
-        <p>圣托里尼岛上的白色教堂既多又美，那种居高临下的气势令人神往。
-            岛上有一座建与于1840年的圆柱形的圣十字教堂，外形非常独特。</p>
-    </div>
-    <div class="gallery">
-        <img src="http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fsantorini%2Fpic3.jpg">
-
-        <p>“世界最美十大书店”之一，站在书店阳台可俯视希腊桑托里尼火山岛全景，
-            在这里尤其适合观海，而且这里无与伦比的落日景致也非常有名。
-            书店由一群艺术家共同打理，因此时常组织话剧演出、放映露天电影。</p>
-    </div>
-</div>
-<div id="adds">
-    <img id="center_logo" src="http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fsantorini%2Fsantorini_logo.jpg"/>
-
-    <div id="adds_content">
-        <h2>Welcome To Santorini Island</h2>
-
-        <p>antorini was named by the Latin Empire in the thirteenth century,
-            and is a reference to Saint Irene, from the name of the old cathedral
-            in the village of Perissa - the name Santorini is a contraction of the name
-            Santa Irini. Before then, it was known as Kallístē (Καλλίστη, "the most
-            beautiful one"), Strongýlē (Greek: Στρογγύλη, "the circular one"),
-            or Thēra. The name Thera was revived in the nineteenth century as the official
-            name of the island and its main city, but the colloquial name Santorini is still
-            in popular use. During the Ottoman Empire's domination of the Aegean Sea, the
-            Turkish exonym for the island was "Santurin" or "Santoron".
-        </p>
-    </div>
-</div>
-</div>
-<footer>
-    <div id="footer_center">
-        <div id="footer_nav">
-            <span><a href="index.html">首页</a></span>
-            <span><a href="blog.html">文章</a></span>
-            <span><a href="gallery.html">作品</a></span>
-            <span><a href="about.html">关于</a></span>
+    <div id="adds">
+        <img id="center_logo" src="http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fsantorini%2Fsantorini_logo.jpg" />
+        <div id="adds_content">
+            <h2>Welcome To Santorini Island</h2>
+            <p>antorini was named by the Latin Empire in the thirteenth century, and is a reference to Saint Irene, from the name of the old cathedral in the village of Perissa - the name Santorini is a contraction of the name Santa Irini. Before then, it was known as Kallístē (Καλλίστη, "the most beautiful one"), Strongýlē (Greek: Στρογγύλη, "the circular one"), or Thēra. The name Thera was revived in the nineteenth century as the official name of the island and its main city, but the colloquial name Santorini is still in popular use. During the Ottoman Empire's domination of the Aegean Sea, the Turkish exonym for the island was "Santurin" or "Santoron".
+            </p>
         </div>
-        <hr/>
-        <div id ="footer_map">
-            <div class="link_map">
-                <dl>
-                    <dt><a href="http://lvyou.baidu.com/shengtuolinidao/jingdian/" target="_blank">热门景点</a></dt>
-                    <dd>伊亚小镇</dd>
-                    <dd>圣玛丽亚教堂</dd>
-                    <dd>蓝顶教堂</dd>
-                    <dd>亚特兰蒂斯书店</dd>
-                    <dd>黑沙滩卡玛里</dd>
-                    <dd>桑托酒庄</dd>
-                    <dd>灯塔</dd>
-                </dl>
-            </div>
-            <div class="link_map">
-                <dl>
-                    <dt><a href="http://lvyou.baidu.com/search?word=%E5%9C%A3%E6%89%98%E9%87%8C%E5%B0%BC%E5%B2%9B&type=1" target="_blank">旅行游记</a></dt>
-                    <dd>希腊-雅典</dd>
-                    <dd>爱在圣托里尼</dd>
-                    <dd>蜜月之旅</dd>
-                    <dd>从圣托里尼到普罗旺斯</dd>
-                </dl>
-            </div>
-            <div class="link_map">
-                <dl>
-                    <dt><a href="http://lvyou.baidu.com/shengtuolinidao/jiaotong/" target="_blank">旅行交通</a></dt>
-                    <dd>飞机</dd>
-                    <dd>轮船</dd>
-                    <dd>公交</dd>
-                    <dd>出租车</dd>
-                    <dd>租车</dd>
-                </dl>
-            </div>
-            <div class="link_map">
-                <dl>
-                    <dt><a href="http://lvyou.baidu.com/shengtuolinidao/meishi/" target="_blank">美食</a></dt>
-                    <dd>grilled octopus</dd>
-                    <dd>souvalaki</dd>
-                    <dd>mousaka</dd>
-                    <dd>pitta</dd>
-                    <dd>fried tomato balls</dd>
-                    <dd>Ασρτικο</dd>
-                    <dd>Βινσντο</dd>
-                    <dd>Pitta</dd>
-                </dl>
-            </div>
-            <div class="link_map">
-                <dl>
-                    <dt><a href="http://lvyou.baidu.com/shengtuolinidao/tips/" target="_blank">小贴士</a></dt>
-                    <dd>治安</dd>
-                    <dd>安全</dd>
-                    <dd>必备物品</dd>
-                    <dd>通信</dd>
-                    <dd>电源</dd>
-                    <dd>语言</dd>
-                    <dd>医疗设施</dd>
-                </dl>
-            </div>
-        </div>
-        <div id ="copyright">cc on the way. &copy;2015</div>
     </div>
-</footer>
+    </div>
+    <footer>
+        <div id="footer_center">
+            <div id="footer_nav">
+                <span><a href="index.html">首页</a></span>
+                <span><a href="blog.html">文章</a></span>
+                <span><a href="gallery.html">作品</a></span>
+                <span><a href="about.html">关于</a></span>
+            </div>
+            <hr/>
+            <div id="footer_map">
+                <div class="link_map">
+                    <dl>
+                        <dt><a href="http://lvyou.baidu.com/shengtuolinidao/jingdian/" target="_blank">热门景点</a></dt>
+                        <dd>伊亚小镇</dd>
+                        <dd>圣玛丽亚教堂</dd>
+                        <dd>蓝顶教堂</dd>
+                        <dd>亚特兰蒂斯书店</dd>
+                        <dd>黑沙滩卡玛里</dd>
+                        <dd>桑托酒庄</dd>
+                        <dd>灯塔</dd>
+                    </dl>
+                </div>
+                <div class="link_map">
+                    <dl>
+                        <dt><a href="http://lvyou.baidu.com/search?word=%E5%9C%A3%E6%89%98%E9%87%8C%E5%B0%BC%E5%B2%9B&type=1" target="_blank">旅行游记</a></dt>
+                        <dd>希腊-雅典</dd>
+                        <dd>爱在圣托里尼</dd>
+                        <dd>蜜月之旅</dd>
+                        <dd>从圣托里尼到普罗旺斯</dd>
+                    </dl>
+                </div>
+                <div class="link_map">
+                    <dl>
+                        <dt><a href="http://lvyou.baidu.com/shengtuolinidao/jiaotong/" target="_blank">旅行交通</a></dt>
+                        <dd>飞机</dd>
+                        <dd>轮船</dd>
+                        <dd>公交</dd>
+                        <dd>出租车</dd>
+                        <dd>租车</dd>
+                    </dl>
+                </div>
+                <div class="link_map">
+                    <dl>
+                        <dt><a href="http://lvyou.baidu.com/shengtuolinidao/meishi/" target="_blank">美食</a></dt>
+                        <dd>grilled octopus</dd>
+                        <dd>souvalaki</dd>
+                        <dd>mousaka</dd>
+                        <dd>pitta</dd>
+                        <dd>fried tomato balls</dd>
+                        <dd>Ασρτικο</dd>
+                        <dd>Βινσντο</dd>
+                        <dd>Pitta</dd>
+                    </dl>
+                </div>
+                <div class="link_map">
+                    <dl>
+                        <dt><a href="http://lvyou.baidu.com/shengtuolinidao/tips/" target="_blank">小贴士</a></dt>
+                        <dd>治安</dd>
+                        <dd>安全</dd>
+                        <dd>必备物品</dd>
+                        <dd>通信</dd>
+                        <dd>电源</dd>
+                        <dd>语言</dd>
+                        <dd>医疗设施</dd>
+                    </dl>
+                </div>
+            </div>
+            <div id="copyright">cc on the way. &copy;2015</div>
+        </div>
+    </footer>
 </body>
+
 </html>
