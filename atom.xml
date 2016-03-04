@@ -292,7 +292,7 @@
     <link href="http://wucan.cc/works/"/>
     <id>http://wucan.cc/works/</id>
     <published>2016-02-04T10:53:07.000Z</published>
-    <updated>2016-03-04T10:53:52.651Z</updated>
+    <updated>2016-03-04T10:57:12.641Z</updated>
     
     <content type="html">&lt;h2 id=&quot;个人项目经历&quot;&gt;&lt;a href=&quot;#个人项目经历&quot; class=&quot;headerlink&quot; title=&quot;个人项目经历&quot;&gt;&lt;/a&gt;个人项目经历&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;h3 id=&quot;2015-05-2015-11-开发区土地集约利用动态监测系统&quot;&gt;&lt;a href=&quot;#2015-05-2015-11-开发区土地集约利用动态监测系统&quot; class=&quot;headerlink&quot; title=&quot;2015/05 ~ 2015/11 开发区土地集约利用动态监测系统&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://wucan.cc/project-landuse/&quot;&gt;2015/05 ~ 2015/11 开发区土地集约利用动态监测系统&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
@@ -321,9 +321,13 @@
     <link href="http://wucan.cc/project-esri/"/>
     <id>http://wucan.cc/project-esri/</id>
     <published>2016-02-04T05:50:10.000Z</published>
-    <updated>2016-03-04T05:57:10.332Z</updated>
+    <updated>2016-03-04T10:56:20.635Z</updated>
     
-    <content type="html">&lt;h2 id=&quot;智能巡警指挥调度系统-2010-05-2010-11&quot;&gt;&lt;a href=&quot;#智能巡警指挥调度系统-2010-05-2010-11&quot; class=&quot;headerlink&quot; title=&quot;智能巡警指挥调度系统 2010-05 ~ 2010-11&quot;&gt;&lt;/a&gt;智能巡警指挥调度系统 2010-05 ~ 2010-11&lt;/h2&gt;&lt;ul&gt;
+    <content type="html">&lt;h2 id=&quot;智能巡警指挥调度系统&quot;&gt;&lt;a href=&quot;#智能巡警指挥调度系统&quot; class=&quot;headerlink&quot; title=&quot;智能巡警指挥调度系统&quot;&gt;&lt;/a&gt;智能巡警指挥调度系统&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;实施时间&lt;ul&gt;
+&lt;li&gt;2010-05 ~ 2010-11&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;项目背景&lt;ul&gt;
 &lt;li&gt;开发智能巡警指挥调度系统，利用PC、Web、Mobile三端联合对巡警智能、合理的进行调度， 辅助巡警更好的完成日常巡逻、案犯追击、突发事件等业务；&lt;/li&gt;
 &lt;li&gt;本项目为2010年参加“中国大学生GIS开发竞赛”的获奖作品。&lt;/li&gt;
@@ -350,7 +354,9 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;智能巡警指挥调度系统-2010-05-2010-11&quot;&gt;&lt;a href=&quot;#智能巡警指挥调度系统-2010-05-2010-11&quot; class=&quot;headerlink&quot; title=&quot;智能巡警指挥调度系统 2010-05 ~ 2010-11&quot;&gt;&lt;/a&gt;智能巡警指挥
+      &lt;h2 id=&quot;智能巡警指挥调度系统&quot;&gt;&lt;a href=&quot;#智能巡警指挥调度系统&quot; class=&quot;headerlink&quot; title=&quot;智能巡警指挥调度系统&quot;&gt;&lt;/a&gt;智能巡警指挥调度系统&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;实施时间&lt;ul&gt;
+&lt;li&gt;2010-05 ~ 2010-11&lt;/
     
     </summary>
     
@@ -366,9 +372,13 @@
     <link href="http://wucan.cc/project-tdlz/"/>
     <id>http://wucan.cc/project-tdlz/</id>
     <published>2016-02-04T04:16:25.000Z</published>
-    <updated>2016-03-04T06:21:43.666Z</updated>
+    <updated>2016-03-04T10:56:50.276Z</updated>
     
-    <content type="html">&lt;h2 id=&quot;农村土地流转过程的数字化监管技术研究-2013-3-2014-6&quot;&gt;&lt;a href=&quot;#农村土地流转过程的数字化监管技术研究-2013-3-2014-6&quot; class=&quot;headerlink&quot; title=&quot;农村土地流转过程的数字化监管技术研究 2013.3~2014.6&quot;&gt;&lt;/a&gt;农村土地流转过程的数字化监管技术研究 2013.3~2014.6&lt;/h2&gt;&lt;ul&gt;
+    <content type="html">&lt;h2 id=&quot;农村土地流转过程的数字化监管技术研究&quot;&gt;&lt;a href=&quot;#农村土地流转过程的数字化监管技术研究&quot; class=&quot;headerlink&quot; title=&quot;农村土地流转过程的数字化监管技术研究&quot;&gt;&lt;/a&gt;农村土地流转过程的数字化监管技术研究&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;实施时间&lt;ul&gt;
+&lt;li&gt;2013.3~2014.6&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;项目背景&lt;ul&gt;
 &lt;li&gt;国土部科技项目，研发土地交易电子商务平台网站，并对土地流转各个环节进行监管。&lt;/li&gt;
 &lt;/ul&gt;
@@ -393,7 +403,8 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;农村土地流转过程的数字化监管技术研究-2013-3-2014-6&quot;&gt;&lt;a href=&quot;#农村土地流转过程的数字化监管技术研究-2013-3-2014-6&quot; class=&quot;headerlink&quot; title=&quot;农村土地流转过程的数字化监管技术研究 2013.3~20
+      &lt;h2 id=&quot;农村土地流转过程的数字化监管技术研究&quot;&gt;&lt;a href=&quot;#农村土地流转过程的数字化监管技术研究&quot; class=&quot;headerlink&quot; title=&quot;农村土地流转过程的数字化监管技术研究&quot;&gt;&lt;/a&gt;农村土地流转过程的数字化监管技术研究&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
     
     </summary>
     
@@ -409,9 +420,13 @@
     <link href="http://wucan.cc/project-12336/"/>
     <id>http://wucan.cc/project-12336/</id>
     <published>2016-02-04T04:14:25.000Z</published>
-    <updated>2016-03-04T06:24:18.188Z</updated>
+    <updated>2016-03-04T10:55:55.702Z</updated>
     
-    <content type="html">&lt;h2 id=&quot;国土资源执法监察巡查指挥管理系统-2014-7-2015-5&quot;&gt;&lt;a href=&quot;#国土资源执法监察巡查指挥管理系统-2014-7-2015-5&quot; class=&quot;headerlink&quot; title=&quot;国土资源执法监察巡查指挥管理系统 2014.7~2015.5&quot;&gt;&lt;/a&gt;国土资源执法监察巡查指挥管理系统 2014.7~2015.5&lt;/h2&gt;&lt;ul&gt;
+    <content type="html">&lt;h2 id=&quot;国土资源执法监察巡查指挥管理系统&quot;&gt;&lt;a href=&quot;#国土资源执法监察巡查指挥管理系统&quot; class=&quot;headerlink&quot; title=&quot;国土资源执法监察巡查指挥管理系统&quot;&gt;&lt;/a&gt;国土资源执法监察巡查指挥管理系统&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;实施时间&lt;ul&gt;
+&lt;li&gt;2014.7~2015.5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;项目背景&lt;ul&gt;
 &lt;li&gt;研发平台软件，用于地方国土局对野外巡查人员指挥调度、对采集数据实时统计分析。&lt;/li&gt;
 &lt;/ul&gt;
@@ -436,7 +451,8 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;国土资源执法监察巡查指挥管理系统-2014-7-2015-5&quot;&gt;&lt;a href=&quot;#国土资源执法监察巡查指挥管理系统-2014-7-2015-5&quot; class=&quot;headerlink&quot; title=&quot;国土资源执法监察巡查指挥管理系统 2014.7~2015.5&quot;&gt;
+      &lt;h2 id=&quot;国土资源执法监察巡查指挥管理系统&quot;&gt;&lt;a href=&quot;#国土资源执法监察巡查指挥管理系统&quot; class=&quot;headerlink&quot; title=&quot;国土资源执法监察巡查指挥管理系统&quot;&gt;&lt;/a&gt;国土资源执法监察巡查指挥管理系统&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;实施时间&lt;ul&gt;
     
     </summary>
     
@@ -452,9 +468,13 @@
     <link href="http://wucan.cc/project-landuse/"/>
     <id>http://wucan.cc/project-landuse/</id>
     <published>2016-02-04T04:12:25.000Z</published>
-    <updated>2016-03-04T08:43:54.414Z</updated>
+    <updated>2016-03-04T10:56:40.159Z</updated>
     
-    <content type="html">&lt;h2 id=&quot;黑龙江开发区土地利用动态监测系统-2015-05-2015-11&quot;&gt;&lt;a href=&quot;#黑龙江开发区土地利用动态监测系统-2015-05-2015-11&quot; class=&quot;headerlink&quot; title=&quot;黑龙江开发区土地利用动态监测系统 2015-05 ~ 2015-11&quot;&gt;&lt;/a&gt;黑龙江开发区土地利用动态监测系统 2015-05 ~ 2015-11&lt;/h2&gt;&lt;ul&gt;
+    <content type="html">&lt;h2 id=&quot;黑龙江开发区土地利用动态监测系统&quot;&gt;&lt;a href=&quot;#黑龙江开发区土地利用动态监测系统&quot; class=&quot;headerlink&quot; title=&quot;黑龙江开发区土地利用动态监测系统&quot;&gt;&lt;/a&gt;黑龙江开发区土地利用动态监测系统&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;实施时间&lt;ul&gt;
+&lt;li&gt;2015-05 ~ 2015-11&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;项目背景&lt;ul&gt;
 &lt;li&gt;研发管理监测网站对移动端采集的地理数据入库更新、数据分析，多级部门联合管理，辅助决策。&lt;/li&gt;
 &lt;/ul&gt;
@@ -485,7 +505,8 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;黑龙江开发区土地利用动态监测系统-2015-05-2015-11&quot;&gt;&lt;a href=&quot;#黑龙江开发区土地利用动态监测系统-2015-05-2015-11&quot; class=&quot;headerlink&quot; title=&quot;黑龙江开发区土地利用动态监测系统 2015-05 ~ 2
+      &lt;h2 id=&quot;黑龙江开发区土地利用动态监测系统&quot;&gt;&lt;a href=&quot;#黑龙江开发区土地利用动态监测系统&quot; class=&quot;headerlink&quot; title=&quot;黑龙江开发区土地利用动态监测系统&quot;&gt;&lt;/a&gt;黑龙江开发区土地利用动态监测系统&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;实施时间&lt;ul&gt;
     
     </summary>
     
@@ -501,9 +522,13 @@
     <link href="http://wucan.cc/project-tiup/"/>
     <id>http://wucan.cc/project-tiup/</id>
     <published>2016-02-04T04:11:25.000Z</published>
-    <updated>2016-03-04T06:20:46.310Z</updated>
+    <updated>2016-03-04T10:57:09.868Z</updated>
     
-    <content type="html">&lt;h2 id=&quot;创新盟校计划-2015-07-至今&quot;&gt;&lt;a href=&quot;#创新盟校计划-2015-07-至今&quot; class=&quot;headerlink&quot; title=&quot;创新盟校计划 2015-07~至今&quot;&gt;&lt;/a&gt;创新盟校计划 2015-07~至今&lt;/h2&gt;&lt;ul&gt;
+    <content type="html">&lt;h2 id=&quot;创新盟校计划&quot;&gt;&lt;a href=&quot;#创新盟校计划&quot; class=&quot;headerlink&quot; title=&quot;创新盟校计划&quot;&gt;&lt;/a&gt;创新盟校计划&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;实施时间&lt;ul&gt;
+&lt;li&gt;2015-07~2015-10&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;项目背景&lt;ul&gt;
 &lt;li&gt;创新盟校计划为高校研发智慧校园综合平台，全覆盖学务、教务、社交等学校生活，旨在促进校际信息资源共享。&lt;/li&gt;
 &lt;/ul&gt;
@@ -532,8 +557,12 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;创新盟校计划-2015-07-至今&quot;&gt;&lt;a href=&quot;#创新盟校计划-2015-07-至今&quot; class=&quot;headerlink&quot; title=&quot;创新盟校计划 2015-07~至今&quot;&gt;&lt;/a&gt;创新盟校计划 2015-07~至今&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;项目背景
+      &lt;h2 id=&quot;创新盟校计划&quot;&gt;&lt;a href=&quot;#创新盟校计划&quot; class=&quot;headerlink&quot; title=&quot;创新盟校计划&quot;&gt;&lt;/a&gt;创新盟校计划&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;实施时间&lt;ul&gt;
+&lt;li&gt;2015-07~2015-10&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;l
     
     </summary>
     
