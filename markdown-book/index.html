@@ -2,10 +2,8 @@
 
 
 
-  
 
-
-<html class="theme-next mist use-motion">
+<html class="theme-next mist">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -100,7 +98,7 @@
 
 3 其他图">
 <meta property="og:image" content="https://gitcafe.com/assets/project/small_default.png">
-<meta property="og:updated_time" content="2016-03-04T06:17:29.414Z">
+<meta property="og:updated_time" content="2016-03-05T14:50:40.117Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="markdown 速查手册">
 <meta name="twitter:description" content="Markdown 语法速查手册1 标题与文字标题123# 这是H1 &amp;lt;一级标题&amp;gt;## 这是H2 &amp;lt;二级标题&amp;gt;###### 这是H6&amp;lt;六级标题&amp;gt;
@@ -130,7 +128,7 @@
     scheme: 'Mist',
     sidebar: {"position":"right","display":"always"},
     fancybox: true,
-    motion: true,
+    motion: false,
     duoshuo: {
       userId: 10463868,
       author: '博主'
@@ -167,6 +165,15 @@
   </script>
 
 
+
+  <script type="text/javascript">
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "//tajs.qq.com/stats?sId=54822169";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
 
 
 
@@ -216,6 +223,14 @@
         </li>
       
         
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+            关于
+          </a>
+        </li>
+      
+        
         <li class="menu-item menu-item-archives">
           <a href="/archives" rel="section">
             
@@ -224,18 +239,34 @@
         </li>
       
         
-        <li class="menu-item menu-item-categories">
-          <a href="/categories" rel="section">
-            
-            分类
-          </a>
-        </li>
-      
-        
         <li class="menu-item menu-item-tags">
           <a href="/tags" rel="section">
             
             标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-split">
+          <a href="/about/split" rel="section">
+            
+            ｜
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-work">
+          <a href="/categories/work" rel="section">
+            
+            工作
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-life">
+          <a href="/categories/life" rel="section">
+            
+            生活
           </a>
         </li>
       
@@ -268,14 +299,6 @@
           <a href="/zx" rel="section">
             
             ZX
-          </a>
-        </li>
-      
-        
-        <li class="menu-item menu-item-about">
-          <a href="/about" rel="section">
-            
-            关于
           </a>
         </li>
       
@@ -345,8 +368,8 @@
               <span class="post-meta-item-text">分类于</span>
               
                 <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
-                  <a href="/categories/Develop/" itemprop="url" rel="index">
-                    <span itemprop="name">Develop</span>
+                  <a href="/categories/work/" itemprop="url" rel="index">
+                    <span itemprop="name">work</span>
                   </a>
                 </span>
 
@@ -422,6 +445,7 @@
 <h3 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">`&lt;hello world&gt;`</span></span><br></pre></td></tr></table></figure>
 <p><code>&lt;hello world&gt;</code></p>
 <h3 id="代码块高亮"><a href="#代码块高亮" class="headerlink" title="代码块高亮"></a>代码块高亮</h3><figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">``</span><span class="string">` ruby</span><br><span class="line">	def add(a, b)</span><br><span class="line">		return a + b</span><br><span class="line">	end</span><br><span class="line">`</span> <span class="string">``</span></span><br></pre></td></tr></table></figure>
+<p>效果<br><figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">add</span><span class="params">(a, b)</span></span></span><br><span class="line">	<span class="keyword">return</span> a + b</span><br><span class="line"><span class="keyword">end</span></span><br></pre></td></tr></table></figure></p>
 <h3 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">| 表格标题 | 表格标题 |</span><br><span class="line">| :------: | :------: |</span><br><span class="line">| 内容| 内容 |</span><br><span class="line">| 内容| 内容 |</span><br></pre></td></tr></table></figure>
 <table>
 <thead>
@@ -569,10 +593,10 @@
           
           
             <div class="site-state-item site-state-categories">
-              <a href="/categories">
-                <span class="site-state-item-count">2</span>
+              
+                <span class="site-state-item-count">4</span>
                 <span class="site-state-item-name">分类</span>
-              </a>
+              
             </div>
           
 
