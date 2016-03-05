@@ -7,11 +7,17 @@ date: 2016-02-28 23:19:28
 * ### 日常
 	* [Ditto](http://ditto-cp.sourceforge.net/)：记录历史复制内容，方便粘贴。
 	* [StrokeIt](http://www.tcbmi.com/strokeit/)：Windows鼠标手势，操作畅快淋漓。
+	* [Clean Master](https://www.cmcm.com/en-us/clean-master-for-pc/)：想清理系统垃圾又不想装360，CM帮你，猎豹出品。该产品针对国际用户，还算良心。
+	* [Everything](https://www.voidtools.com/)：极速搜索，快到发指。
+	* [FinalData](http://www.ihacksoft.com/finaldata-enterprise-3.html)：数据删除恢复利器。
+	* [KeyTweak键盘修改器](http://keytweak.en.softonic.com/)：可以修改键盘按键。
+	* [USB Safely Remove](http://safelyremove.com/index.htm)：U盘退出一直被占用，又不想装360，就用它。
+	* [Wox](http://www.getwox.com/)：类似Mac中的alfred，你想要什么，立刻就有什么。
 * ### 办公文档
 	* [ABBYY FineReader](http://www.abbyychina.com/)：目前用过的最强大的OCR文字识别软件，没有之一。		
 	* [FileZilla](https://filezilla-project.org/)：好用的FTP工具。
 	* [Nordri Tools](http://www.nordritools.com/)：一款让你的PPT变的更强大的工具。
-	* [OneNote](https://www.onenote.com/)：我也用印象笔记，都很好，但是似乎OneNote越来越给力了。
+	* [OneNote](https://www.onenote.com/)：我也用过印象笔记、有道云笔记、为知笔记，都很好，但是似乎OneNote越来越给力了。
 	* [SketchUp](https://www.sketchup.com/zh-CN)：想画个草图又不会用CAD，用它，不会错。
 	* [SmallPDF](http://smallpdf.com/)：有了它，各种PDF相关的软件都可以不用了。
 	* [PPT遥控器](http://ppt.baidu.com/)：百度出的，本来用起来心存疑虑怕来个全家桶，试用之后还不错吧。
@@ -22,19 +28,11 @@ date: 2016-02-28 23:19:28
 	* [PotPlayer](https://potplayer.daum.net/)：高清播放器，可以配合 [Zune](http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fliqi%2FZune.dsf) 皮肤。
 	* [图片批处理](http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fliqi%2Fsignpics.exe)：很小、很老的一个软件，但是超级好用。还有这个[BenVista PhotoZoom](http://www.portablesoft.org/photozoom-pro/)
 	* [曦力音视频转换](http://www.xilisoft.com/)：视频格式转换能力超一流，不过貌似中文官网没了。
+* ### 网络相关
+	* [Proxifier PE](https://www.proxifier.com/)：网络代理神器！			
+	* [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)：FQ神器，不过得自建VPS，或者买账号，配合[Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)，上网畅通无阻。
 
 
-* ### 系统
-	* [Clean Master](https://www.cmcm.com/en-us/clean-master-for-pc/)：想清理系统垃圾又不想装360，CM帮你，猎豹出品。该产品针对国际用户，还算良心。
-	* [Everything](https://www.voidtools.com/)：极速搜索，快到发指。
-	* [FinalData](http://www.ihacksoft.com/finaldata-enterprise-3.html)：数据删除恢复利器。
-	* [KeyTweak键盘修改器](http://keytweak.en.softonic.com/)：可以修改键盘按键。
-	* [USB Safely Remove](http://safelyremove.com/index.htm)：U盘退出一直被占用，又不想装360，就用它。
-	* [Wox](http://www.getwox.com/)：类似Mac中的alfred，你想要什么，立刻就有什么。
-	* #### 网络相关
-		* [Proxifier PE](https://www.proxifier.com/)：网络代理神器！			
-		* [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)：FQ神器，不过得自建VPS，或者买账号，配合[Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)，上网畅通无阻。
-			
 ## Develop
 * [Sublime](https://www.sublimetext.com/)：前端工具精品，我正在用它写这些文字。
 * Chrome：
@@ -66,13 +64,18 @@ date: 2016-02-28 23:19:28
 ## Web Site 
 * [阿里妈妈](http://www.alimama.com/)：淘宝买东西返利给自己。
 * [Google照片](https://photos.google.com/)：简直神器！！配合手机app，自动上传备份照片、自动编辑相册、自动识别人物、自动生成相册影片... 全部自动！
+* [ProcessOn](https://www.processon.com)：在线协作的Vision+Axure+JustinMind，挺不错的。
+* [百度图说](http://tushuo.baidu.com/)：做一个简单的统计图表展示，还是不错的，还可以交互，UI方面有待提升。
+* [百度脑图](http://naotu.baidu.com/)：一口气推荐了好几个百度的东西，确实都还不错。
 
 
 ## 科研利器
 * [sci-hub](http://sci-hub.io/)：它可以让你畅通无阻的使用Google Scholar，又可以畅通无阻的下载论文！
 
+
 ## 设备
-* [iPad mini](http://www.apple.com/cn/ipad/)：用着舒服。
+* [iPad mini](http://www.apple.com/cn/ipad/)：就像当年买小霸王一样，打着学习的接口买了个游戏机、播放器 -_-#
+
 
 未完待续...
 (2016年3月4日)
