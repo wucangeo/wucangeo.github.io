@@ -1,0 +1,699 @@
+<!doctype html>
+
+
+
+
+<html class="theme-next mist">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+  <link href="/vendors/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css"/>
+
+
+
+
+  <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,400italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+
+
+<link href="/vendors/font-awesome/css/font-awesome.min.css?v=4.4.0" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=0.5.2" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content=",,,," />
+
+
+
+
+
+  <link rel="alternate" href="/atom.xml" title="CX's Blog" type="application/atom+xml" />
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=0.5.2" />
+
+
+
+
+
+
+<meta name="description" content="土地流转交易数据挖掘分析
+实施时间
+2015-07 ~ 2015-08
+
+
+项目背景
+由于 土地流转项目和论文数据需要，快速学习python并使用开源工具Scrapy抓取了土流网的历史交易数据。
+
+
+承担工作
+学习Scrapy
+抓取数据
+数据分析
+
+
+使用技术
+python, Scrapy
+
+
+项目源代码地址
+https://github.com/wucangeo/ScrapyData
+
+
+
+土流">
+<meta property="og:type" content="website">
+<meta property="og:title" content="土地流转交易数据挖掘分析">
+<meta property="og:url" content="http://wucan.cc/projects/scrapy.html">
+<meta property="og:site_name" content="CX's Blog">
+<meta property="og:description" content="土地流转交易数据挖掘分析
+实施时间
+2015-07 ~ 2015-08
+
+
+项目背景
+由于 土地流转项目和论文数据需要，快速学习python并使用开源工具Scrapy抓取了土流网的历史交易数据。
+
+
+承担工作
+学习Scrapy
+抓取数据
+数据分析
+
+
+使用技术
+python, Scrapy
+
+
+项目源代码地址
+https://github.com/wucangeo/ScrapyData
+
+
+
+土流">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/projects/scrapyData/tuliuwang1.jpg">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/projects/scrapyData/tuliuwang2.jpg">
+<meta property="og:updated_time" content="2016-03-10T08:22:42.506Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="土地流转交易数据挖掘分析">
+<meta name="twitter:description" content="土地流转交易数据挖掘分析
+实施时间
+2015-07 ~ 2015-08
+
+
+项目背景
+由于 土地流转项目和论文数据需要，快速学习python并使用开源工具Scrapy抓取了土流网的历史交易数据。
+
+
+承担工作
+学习Scrapy
+抓取数据
+数据分析
+
+
+使用技术
+python, Scrapy
+
+
+项目源代码地址
+https://github.com/wucangeo/ScrapyData
+
+
+
+土流">
+
+
+
+<script type="text/javascript" id="hexo.configuration">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    scheme: 'Mist',
+    sidebar: {"position":"right","display":"always"},
+    fancybox: true,
+    motion: false,
+    duoshuo: {
+      userId: 10463868,
+      author: '博主'
+    }
+  };
+</script>
+
+  <title>
+  
+
+  
+    土地流转交易数据挖掘分析 | CX's Blog
+  
+</title>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+
+
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "//tajs.qq.com/stats?sId=54822169";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+  
+  
+    
+  
+
+  <div class="container one-collumn sidebar-position-right  ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-meta ">
+  
+
+  <div class="custom-logo-site-title">
+    <a href="/"  class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <span class="site-title">CX's Blog</span>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+  <p class="site-subtitle"></p>
+</div>
+
+<div class="site-nav-toggle">
+  <button>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+  </button>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu ">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+            关于
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives" rel="section">
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags" rel="section">
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-split">
+          <a href="/about/split" rel="section">
+            
+            ｜
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-work">
+          <a href="/categories/work" rel="section">
+            
+            工作
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-life">
+          <a href="/categories/life" rel="section">
+            
+            生活
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-liqi">
+          <a href="/liqi" rel="section">
+            
+            利器
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-books">
+          <a href="/books" rel="section">
+            
+            书单
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-projects">
+          <a href="/projects" rel="section">
+            
+            项目
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-zx">
+          <a href="/zx" rel="section">
+            
+            ZX
+          </a>
+        </li>
+      
+
+      
+      
+      
+    </ul>
+  
+
+  
+</nav>
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+    
+      <h2 id="土地流转交易数据挖掘分析"><a href="#土地流转交易数据挖掘分析" class="headerlink" title="土地流转交易数据挖掘分析"></a>土地流转交易数据挖掘分析</h2><ul>
+<li>实施时间<ul>
+<li>2015-07 ~ 2015-08</li>
+</ul>
+</li>
+<li>项目背景<ul>
+<li>由于 <code>土地流转</code>项目和论文数据需要，快速学习<a href="https://www.python.org/" target="_blank" rel="external">python</a>并使用开源工具<a href="http://scrapy.org/" target="_blank" rel="external">Scrapy</a>抓取了<a href="http://www.tuliu.com/" target="_blank" rel="external">土流网</a>的历史交易数据。</li>
+</ul>
+</li>
+<li>承担工作<ul>
+<li>学习Scrapy</li>
+<li>抓取数据</li>
+<li>数据分析</li>
+</ul>
+</li>
+<li>使用技术<ul>
+<li><a href="https://www.python.org/" target="_blank" rel="external">python</a>, <a href="http://scrapy.org/" target="_blank" rel="external">Scrapy</a></li>
+</ul>
+</li>
+<li>项目源代码地址<ul>
+<li><a href="https://github.com/wucangeo/ScrapyData" target="_blank" rel="external">https://github.com/wucangeo/ScrapyData</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="土流网数据示例"><a href="#土流网数据示例" class="headerlink" title="土流网数据示例"></a>土流网数据示例</h3><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/projects/scrapyData/tuliuwang1.jpg" alt="土流网"><br><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/projects/scrapyData/tuliuwang2.jpg" alt="土流网"></p>
+<h3 id="土流网信息源码分析"><a href="#土流网信息源码分析" class="headerlink" title="土流网信息源码分析"></a>土流网信息源码分析</h3><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="title">h2</span>&gt;</span>基本信息<span class="tag">&lt;/<span class="title">h2</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="title">div</span> <span class="attribute">class</span>=<span class="value">"content-table clearfix"</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="title">dl</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dt</span>&gt;</span>土地类型<span class="tag">&lt;/<span class="title">dt</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dd</span>&gt;</span><span class="tag">&lt;<span class="title">a</span> <span class="attribute">href</span>=<span class="value">"http://daxing.tuliu.com/nongcunzhaijidi/"</span>&gt;</span>农村宅基地<span class="tag">&lt;/<span class="title">a</span>&gt;</span><span class="tag">&lt;/<span class="title">dd</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="title">dl</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="title">dl</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dt</span>&gt;</span>流转性质<span class="tag">&lt;/<span class="title">dt</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dd</span>&gt;</span><span class="tag">&lt;<span class="title">a</span> <span class="attribute">href</span>=<span class="value">"/zulin/"</span>&gt;</span>租赁<span class="tag">&lt;/<span class="title">a</span>&gt;</span><span class="tag">&lt;/<span class="title">dd</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="title">dl</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="title">dl</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dt</span>&gt;</span>发布时间<span class="tag">&lt;/<span class="title">dt</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dd</span>&gt;</span>2015-07-31<span class="tag">&lt;/<span class="title">dd</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="title">dl</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="title">dl</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dt</span>&gt;</span>更新时间<span class="tag">&lt;/<span class="title">dt</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dd</span>&gt;</span>2015-08-12<span class="tag">&lt;/<span class="title">dd</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="title">dl</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="title">dl</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dt</span>&gt;</span>土地面积<span class="tag">&lt;/<span class="title">dt</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dd</span>&gt;</span>416平米<span class="tag">&lt;/<span class="title">dd</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="title">dl</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="title">dl</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dt</span>&gt;</span>流转年限<span class="tag">&lt;/<span class="title">dt</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dd</span>&gt;</span>70年<span class="tag">&lt;/<span class="title">dd</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="title">dl</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="title">dl</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dt</span>&gt;</span>价格<span class="tag">&lt;/<span class="title">dt</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dd</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;<span class="title">ul</span>&gt;</span></span><br><span class="line">                <span class="tag">&lt;<span class="title">li</span>&gt;</span>一口价：3万元<span class="tag">&lt;/<span class="title">li</span>&gt;</span></span><br><span class="line">            <span class="tag">&lt;/<span class="title">ul</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;/<span class="title">dd</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="title">dl</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="title">dl</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dt</span>&gt;</span>付款方式<span class="tag">&lt;/<span class="title">dt</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">dd</span>&gt;</span>面议<span class="tag">&lt;/<span class="title">dd</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="title">dl</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="title">div</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<h3 id="Scrapy数据抓取核心代码"><a href="#Scrapy数据抓取核心代码" class="headerlink" title="Scrapy数据抓取核心代码"></a>Scrapy数据抓取核心代码</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> scrapy</span><br><span class="line"><span class="keyword">from</span> scrapy.spiders <span class="keyword">import</span> CrawlSpider, Rule</span><br><span class="line"><span class="keyword">from</span> scrapy.linkextractors <span class="keyword">import</span> LinkExtractor</span><br><span class="line"><span class="keyword">from</span> scrapy.exporters <span class="keyword">import</span> JsonItemExporter</span><br><span class="line"></span><br><span class="line"><span class="keyword">from</span> scrapy.spiders <span class="keyword">import</span> Spider</span><br><span class="line"><span class="keyword">from</span> scrapy.selector <span class="keyword">import</span> Selector</span><br><span class="line"><span class="keyword">from</span> ScrapyData.items <span class="keyword">import</span> Website</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">LandSpider</span><span class="params">(Spider)</span>:</span></span><br><span class="line">    name = <span class="string">"land"</span></span><br><span class="line">    allowed_domains = [<span class="string">"tuliu.com"</span>]    </span><br><span class="line">    start_urls = [</span><br><span class="line">        <span class="string">"http://tuliu.com/view-372131.html"</span></span><br><span class="line"></span><br><span class="line">    获取<span class="number">100</span>条</span><br><span class="line">    initUrl = <span class="string">"http://tuliu.com/view-3721"</span></span><br><span class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> range(<span class="number">100</span>):</span><br><span class="line">        url = initUrl + str(i).zfill(<span class="number">2</span>) + <span class="string">".html"</span></span><br><span class="line">        print(url)</span><br><span class="line">        start_urls.append(url)</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">parse</span><span class="params">(self, response)</span>:</span></span><br><span class="line">        <span class="string">"""</span><br><span class="line">        The lines below is a spider contract. For more info see:</span><br><span class="line">        http://doc.scrapy.org/en/latest/topics/contracts.html</span><br><span class="line">        @url http://www.dmoz.org/Computers/Programming/Languages/Python/Resources/</span><br><span class="line">        @scrapes name</span><br><span class="line">        """</span></span><br><span class="line">        sel = Selector(response)</span><br><span class="line">        sites = sel.xpath(<span class="string">'//div[@class="attribute"]'</span>)</span><br><span class="line">        items = []</span><br><span class="line"></span><br><span class="line">        <span class="keyword">for</span> site <span class="keyword">in</span> sites:</span><br><span class="line">            item = Website()</span><br><span class="line"></span><br><span class="line">            <span class="comment"># names = site.xpath('string(dl/dd[1]/p[2]/a/text())').extract()</span></span><br><span class="line">            <span class="comment"># nameitem = []</span></span><br><span class="line">            <span class="comment"># for name in names:</span></span><br><span class="line">            <span class="comment">#     nameitem.append(name.encode('unicode-escape'))</span></span><br><span class="line">            item[<span class="string">'name'</span>] = site.xpath(<span class="string">'string(dl/dd[1]/p[2]/a/text())'</span>).extract()</span><br><span class="line">            item[<span class="string">'url'</span>] = site.xpath(<span class="string">'string(dl/dd[2]/p[2]/a/text())'</span>).extract()</span><br><span class="line">            item[<span class="string">'description'</span>] = site.xpath(<span class="string">'string(dl/dd[3]/p[2]/text())'</span>).extract()</span><br><span class="line">            items.append(item)</span><br><span class="line"></span><br><span class="line">        <span class="keyword">return</span> items</span><br></pre></td></tr></table></figure>
+<h3 id="数据抓取结果保存在MySQL数据库中"><a href="#数据抓取结果保存在MySQL数据库中" class="headerlink" title="数据抓取结果保存在MySQL数据库中"></a>数据抓取结果保存在MySQL数据库中</h3><p><code>图片待补充</code></p>
+
+    
+  </div>
+
+
+          </div>
+          
+
+  <p>热评文章</p>
+  <div class="ds-top-threads" data-range="weekly" data-num-items="4"></div>
+
+
+          
+  <div class="comments" id="comments">
+    
+      <div class="ds-thread" data-thread-key="projects/scrapy.html"
+           data-title="土地流转交易数据挖掘分析" data-url="http://wucan.cc/projects/scrapy.html">
+      </div>
+    
+  </div>
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
+      
+
+      
+
+      <section class="site-overview sidebar-panel  sidebar-panel-active ">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <img class="site-author-image" itemprop="image"
+               src="http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fabout%2Favatar.jpg"
+               alt="吴灿" />
+          <p class="site-author-name" itemprop="name">吴灿</p>
+          <p class="site-description motion-element" itemprop="description"></p>
+        </div>
+        <nav class="site-state motion-element">
+          <div class="site-state-item site-state-posts">
+            <a href="/archives">
+              <span class="site-state-item-count">5</span>
+              <span class="site-state-item-name">日志</span>
+            </a>
+          </div>
+          
+          
+            <div class="site-state-item site-state-categories">
+              
+                <span class="site-state-item-count">2</span>
+                <span class="site-state-item-name">分类</span>
+              
+            </div>
+          
+
+          
+            <div class="site-state-item site-state-tags">
+              <a href="/tags">
+                <span class="site-state-item-count">3</span>
+                <span class="site-state-item-name">标签</span>
+              </a>
+            </div>
+          
+
+        </nav>
+
+        
+          <div class="feed-link motion-element">
+            <a href="/atom.xml" rel="alternate">
+              <i class="fa fa-rss"></i>
+              RSS
+            </a>
+          </div>
+        
+
+        <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/wucangeo/" target="_blank">
+                  
+                    <i class="fa fa-github"></i> GitHub
+                  
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://weibo.com/country731/" target="_blank">
+                  
+                    <i class="fa fa-weibo"></i> 微博
+                  
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://www.zhihu.com/people/wucan" target="_blank">
+                  
+                    <i class="fa fa-globe"></i> 知乎
+                  
+                </a>
+              </span>
+            
+          
+        </div>
+
+        
+        
+
+        <div class="links-of-author motion-element">
+          
+        </div>
+
+      </section>
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  
+  &copy;  2015 - 
+  <span itemprop="copyrightYear">2016</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">吴灿</span>
+</div>
+
+<div class="powered-by">
+  由 <a class="theme-link" href="http://hexo.io">Hexo</a> 强力驱动
+</div>
+
+<div class="theme-info">
+  主题 -
+  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
+    NexT.Mist
+  </a>
+</div>
+
+
+
+      </div>
+    </footer>
+
+    <div class="back-to-top"></div>
+  </div>
+
+  
+
+
+  
+
+
+
+  <script type="text/javascript" src="/vendors/jquery/index.js?v=2.1.3"></script>
+
+  <script type="text/javascript" src="/vendors/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+
+  <script type="text/javascript" src="/vendors/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+
+  <script type="text/javascript" src="/vendors/velocity/velocity.min.js"></script>
+
+  <script type="text/javascript" src="/vendors/velocity/velocity.ui.min.js"></script>
+
+  <script type="text/javascript" src="/vendors/fancybox/source/jquery.fancybox.pack.js"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=0.5.2"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=0.5.2"></script>
+
+
+
+  
+  
+
+  
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=0.5.2"></script>
+
+
+
+  
+
+  
+    
+  
+
+  <script type="text/javascript">
+    var duoshuoQuery = {short_name:"wucancc"};
+    (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.id = 'duoshuo-script';
+      ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0]
+      || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+  </script>
+
+  
+    
+  
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  <script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"></script>
+  <script>AV.initialize("eFRBG9IEWMYHSqL5mvQFweyP-gzGzoHsz", "tODSWROUQUzDn8EdLEQpbvIS");</script>
+  <script>
+    function showTime(Counter) {
+      var query = new AV.Query(Counter);
+      var entries = [];
+      var $visitors = $(".leancloud_visitors");
+
+      $visitors.each(function () {
+        entries.push( $(this).attr("id").trim() );
+      });
+
+      query.containedIn('url', entries);
+      query.find()
+        .done(function (results) {
+          var COUNT_CONTAINER_REF = '.leancloud-visitors-count';
+
+          if (results.length === 0) {
+            $visitors.find(COUNT_CONTAINER_REF).text(0);
+            return;
+          }
+
+          for (var i = 0; i < results.length; i++) {
+            var item = results[i];
+            var url = item.get('url');
+            var time = item.get('time');
+            var element = document.getElementById(url);
+
+            $(element).find(COUNT_CONTAINER_REF).text(time);
+          }
+        })
+        .fail(function (object, error) {
+          console.log("Error: " + error.code + " " + error.message);
+        });
+    }
+
+    function addCount(Counter) {
+      var $visitors = $(".leancloud_visitors");
+      var url = $visitors.attr('id').trim();
+      var title = $visitors.attr('data-flag-title').trim();
+      var query = new AV.Query(Counter);
+
+      query.equalTo("url", url);
+      query.find({
+        success: function(results) {
+          if (results.length > 0) {
+            var counter = results[0];
+            counter.fetchWhenSave(true);
+            counter.increment("time");
+            counter.save(null, {
+              success: function(counter) {
+                var $element = $(document.getElementById(url));
+                $element.find('.leancloud-visitors-count').text(counter.get('time'));
+              },
+              error: function(counter, error) {
+                console.log('Failed to save Visitor num, with error message: ' + error.message);
+              }
+            });
+          } else {
+            var newcounter = new Counter();
+            newcounter.set("title", title);
+            newcounter.set("url", url);
+            newcounter.set("time", 1);
+            newcounter.save(null, {
+              success: function(newcounter) {
+                var $element = $(document.getElementById(url));
+                $element.find('.leancloud-visitors-count').text(newcounter.get('time'));
+              },
+              error: function(newcounter, error) {
+                console.log('Failed to create');
+              }
+            });
+          }
+        },
+        error: function(error) {
+          console.log('Error:' + error.code + " " + error.message);
+        }
+      });
+    }
+
+    $(function() {
+      var Counter = AV.Object.extend("Counter");
+      if ($('.leancloud_visitors').length == 1) {
+        addCount(Counter);
+      } else if ($('.post-title-link').length > 1) {
+        showTime(Counter);
+      }
+    });
+  </script>
+
+
+
+
+</body>
+</html>
