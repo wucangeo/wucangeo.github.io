@@ -3,11 +3,8 @@ title: 项目经历
 date: 2016-02-28 23:18:17
 ---
 
-<script LANGUAGE="JavaScript"> 
-	window.location="http://wucan.cc/projects"; 
-</script>
-
 ## 团队项目
+` 点击项目名称查看详细 `
 <div class="container-box">
 	<span class="gallery-item">
 		<img src="http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fprojects%2Flanduse%2Flanduse.jpg">
@@ -36,10 +33,15 @@ date: 2016-02-28 23:18:17
 </div>
 
 ## 个人项目
+` 点击项目名称查看详细 `
 <div class="container-box">
 	<span class="gallery-item">
 		<img src="http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fsantorini%2Fsantorini.jpg">
         <a href="http://wucan.cc/projects/santorini/"><p>IFE-个人博客首页</p></a>
+	</span>
+	<span class="gallery-item">
+		<img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/projects/scrapyData/tuliuwang1.jpg">
+        <a href="http://wucan.cc/projects/scrapy.html"><p>2015/07 ~ 2015/08</p><p>基于Scrapy开源工具的数据挖掘</p></a>
 	</span>
 </div>
 

@@ -13,6 +13,7 @@ date: 2016-02-28 23:19:28
 	* [KeyTweak键盘修改器](http://keytweak.en.softonic.com/)：可以修改键盘按键。
 	* [USB Safely Remove](http://safelyremove.com/index.htm)：U盘退出一直被占用，又不想装360，就用它。
 	* [Wox](http://www.getwox.com/)：类似Mac中的alfred，你想要什么，立刻就有什么。
+	* [DailyPic](https://www.microsoft.com/zh-cn/store/apps/dailypic/9nblgggzm5n9)：如果你用windows 10，如果你喜欢[Bing](http://cn.bing.com)的每日壁纸，这个应用可以设置Bing壁纸为windows 10的桌面壁纸和锁屏壁纸，非常不错。
 * ### 办公文档
 	* [ABBYY FineReader](http://www.abbyychina.com/)：目前用过的最强大的OCR文字识别软件，没有之一。		
 	* [FileZilla](https://filezilla-project.org/)：好用的FTP工具。

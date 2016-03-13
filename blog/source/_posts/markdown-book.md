@@ -2,7 +2,7 @@
 title: markdown 速查手册
 date: 2016-02-28 22:36:40
 tags: hexo
-categories: Develop
+categories: work
 ---
 
 # Markdown 语法速查手册
@@ -82,6 +82,13 @@ categories: Develop
 		end
 	` ``
 ```
+效果
+``` ruby
+	def add(a, b)
+		return a + b
+	end
+```
+
 
 ### 表格
 ``` javascript

@@ -14,7 +14,8 @@ categories: projects
 	* 系统功能设计，开发框架搭建，系统功能研发，如积雪统计分析、地图符号化、Office文档处理等。
 * 使用技术
 	* VS 2012 C# Winform，Devexpress  框架，SQL Server，ArcGIS Engine，ENVI/IDL，统计模型实现。
-
+* 项目源代码地址
+	* [https://github.com/BNU-Chen/SnowCover](https://github.com/BNU-Chen/SnowCover)
 
 ### 原始影像预处理
 ![企业动态监控](http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fprojects%2Fsnowcover%2Frsimage.jpg)

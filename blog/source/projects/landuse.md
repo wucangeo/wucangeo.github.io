@@ -19,7 +19,9 @@ categories: projects
 	* Spring MVC 的 Java 开发框架作为网站后台，Hibernate 实现网站数据持久化；
 	* 使用 Spring Security 作为用户权限管理解决方案；
 	* 使用ArcGIS Server for JavaScript API 完成WebGIS地图分析功能。
-
+* 项目源代码地址
+	* [https://github.com/wucangeo/landuse](https://github.com/wucangeo/landuse)
+	
 ### 企业动态监控
 ![企业动态监控](http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fprojects%2Flanduse%2Fenterprise.jpg)
 
