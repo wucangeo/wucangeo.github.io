@@ -1,0 +1,1381 @@
+<!doctype html>
+
+
+
+
+<html class="theme-next mist">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+  <link href="/vendors/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css"/>
+
+
+
+
+  <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,400italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+
+
+<link href="/vendors/font-awesome/css/font-awesome.min.css?v=4.4.0" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=0.5.2" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content="Web, Trend, Develop," />
+
+
+
+
+
+  <link rel="alternate" href="/atom.xml" title="CX's Blog" type="application/atom+xml" />
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=0.5.2" />
+
+
+
+
+
+
+<meta name="description" content="如题，一下是正文。
+Angular2015 Web 前端讨论
+
+一、目前流行的前端框架
+
+
+
+
+
+Angular
+
+
+
+
+
+
+
+React
+
+
+
+
+
+
+
+
+
+
+
+Vue.js
+
+
+
+
+
+Ext JS
+
+
+
+
+
+more…
+
+
+
+
+二、Angular JS 开发介绍
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+三、开发流程分享
+
+四、前端开发工具
+前端自动化
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版本管理">
+<meta property="og:type" content="article">
+<meta property="og:title" content="去了一个小国企实习，我分享了2015 Web前端流行趋势">
+<meta property="og:url" content="http://wucan.cc/web-trend-2015/index.html">
+<meta property="og:site_name" content="CX's Blog">
+<meta property="og:description" content="如题，一下是正文。
+Angular2015 Web 前端讨论
+
+一、目前流行的前端框架
+
+
+
+
+
+Angular
+
+
+
+
+
+
+
+React
+
+
+
+
+
+
+
+
+
+
+
+Vue.js
+
+
+
+
+
+Ext JS
+
+
+
+
+
+more…
+
+
+
+
+二、Angular JS 开发介绍
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+三、开发流程分享
+
+四、前端开发工具
+前端自动化
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版本管理">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web01.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2016/web02.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2017/web03.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2018/web04.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2019/web05.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2020/web06.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2021/web07.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2022/web08.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2023/web09.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2024/web10.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2025/web11.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2026/web12.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2027/web13.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2028/web14.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2029/web15.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2030/web16.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2031/web17.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2032/web18.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2033/web19.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2034/web20.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2035/web21.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2036/web22.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2037/web23.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2038/web24.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2039/web25.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2040/web26.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2041/web27.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2042/web28.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2043/web29.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2044/web30.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2045/web31.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2046/web32.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2047/web33.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2048/web34.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2049/web35.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2050/web36.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2051/web37.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2052/web38.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2053/web39.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2054/web40.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2055/web41.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2056/web42.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2057/web43.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2058/web44.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2059/web45.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2060/web46.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2061/web47.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2062/web48.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2063/web49.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2064/web50.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2065/web51.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2066/web52.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2067/web53.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2068/web54.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2069/web55.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2070/web56.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2071/web57.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2072/web58.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2073/web59.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2074/web60.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2075/web61.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2076/web62.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2077/web63.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2078/web64.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2079/web65.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2080/web66.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2081/web67.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2082/web68.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2083/web69.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2084/web70.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2085/web71.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2086/web72.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2087/web73.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2088/web74.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2089/web75.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2090/web76.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2091/web77.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2092/web78.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2093/web79.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2094/web80.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2095/web81.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2096/web82.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2097/web83.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2098/web84.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2099/web85.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2100/web86.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2101/web87.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2102/web88.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2103/web89.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2104/web90.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2105/web91.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2106/web92.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2107/web93.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2108/web94.JPG">
+<meta property="og:image" content="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2109/web95.JPG">
+<meta property="og:updated_time" content="2016-03-16T07:28:38.171Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="去了一个小国企实习，我分享了2015 Web前端流行趋势">
+<meta name="twitter:description" content="如题，一下是正文。
+Angular2015 Web 前端讨论
+
+一、目前流行的前端框架
+
+
+
+
+
+Angular
+
+
+
+
+
+
+
+React
+
+
+
+
+
+
+
+
+
+
+
+Vue.js
+
+
+
+
+
+Ext JS
+
+
+
+
+
+more…
+
+
+
+
+二、Angular JS 开发介绍
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+三、开发流程分享
+
+四、前端开发工具
+前端自动化
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版本管理">
+
+
+
+<script type="text/javascript" id="hexo.configuration">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    scheme: 'Mist',
+    sidebar: {"position":"right","display":"always"},
+    fancybox: true,
+    motion: false,
+    duoshuo: {
+      userId: 10463868,
+      author: '博主'
+    }
+  };
+</script>
+
+  <title> 去了一个小国企实习，我分享了2015 Web前端流行趋势 | CX's Blog </title>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+
+
+
+  <script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "//hm.baidu.com/hm.js?ae4ebdef419e4fa49a0e041059e56191";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+
+
+  
+  
+    
+  
+
+  <div class="container one-collumn sidebar-position-right page-post-detail ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-meta ">
+  
+
+  <div class="custom-logo-site-title">
+    <a href="/"  class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <span class="site-title">CX's Blog</span>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+  <p class="site-subtitle"></p>
+</div>
+
+<div class="site-nav-toggle">
+  <button>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+  </button>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu ">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+            关于
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives" rel="section">
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags" rel="section">
+            
+            标签
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-split">
+          <a href="/about/split" rel="section">
+            
+            ｜
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-work">
+          <a href="/categories/work" rel="section">
+            
+            工作
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-life">
+          <a href="/categories/life" rel="section">
+            
+            生活
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-liqi">
+          <a href="/liqi" rel="section">
+            
+            利器
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-books">
+          <a href="/books" rel="section">
+            
+            书单
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-projects">
+          <a href="/projects" rel="section">
+            
+            项目
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-zx">
+          <a href="/zx" rel="section">
+            
+            ZX
+          </a>
+        </li>
+      
+
+      
+      
+      
+    </ul>
+  
+
+  
+</nav>
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                去了一个小国企实习，我分享了2015 Web前端流行趋势
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            <span class="post-meta-item-icon">
+              <i class="fa fa-calendar-o"></i>
+            </span>
+            <span class="post-meta-item-text">发表于</span>
+            <time itemprop="dateCreated" datetime="2016-03-16T15:06:41+08:00" content="2016-03-16">
+              2016-03-16
+            </time>
+          </span>
+
+          
+            <span class="post-category" >
+              &nbsp; | &nbsp;
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+                  <a href="/categories/work/" itemprop="url" rel="index">
+                    <span itemprop="name">work</span>
+                  </a>
+                </span>
+
+                
+                
+
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                &nbsp; | &nbsp;
+                <a href="/web-trend-2015/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="web-trend-2015/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+
+          
+          
+             <span id="/web-trend-2015/" class="leancloud_visitors" data-flag-title="去了一个小国企实习，我分享了2015 Web前端流行趋势">
+               &nbsp; | &nbsp;
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               <span class="post-meta-item-text">阅读次数 </span>
+               <span class="leancloud-visitors-count"></span>
+              </span>
+          
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <p>如题，一下是正文。</p>
+<h3 id="Angular"><a href="#Angular" class="headerlink" title="Angular"></a>Angular</h3><h1 id="2015-Web-前端讨论"><a href="#2015-Web-前端讨论" class="headerlink" title="2015 Web 前端讨论"></a>2015 Web 前端讨论</h1><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web01.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2016/web02.JPG" alt=""></p>
+<h2 id="一、目前流行的前端框架"><a href="#一、目前流行的前端框架" class="headerlink" title="一、目前流行的前端框架"></a>一、目前流行的前端框架</h2><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2017/web03.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2018/web04.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2019/web05.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2020/web06.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2021/web07.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2022/web08.JPG" alt=""></p>
+<h3 id="Angular-1"><a href="#Angular-1" class="headerlink" title="Angular"></a>Angular</h3><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2023/web09.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2024/web10.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2025/web11.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2026/web12.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2027/web13.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2028/web14.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2029/web15.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2030/web16.JPG" alt=""></p>
+<h3 id="React"><a href="#React" class="headerlink" title="React"></a>React</h3><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2031/web17.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2032/web18.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2033/web19.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2034/web20.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2035/web21.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2036/web22.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2037/web23.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2038/web24.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2039/web25.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2040/web26.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2041/web27.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2042/web28.JPG" alt=""></p>
+<h3 id="Vue-js"><a href="#Vue-js" class="headerlink" title="Vue.js"></a>Vue.js</h3><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2043/web29.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2044/web30.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2045/web31.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2046/web32.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2047/web33.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2048/web34.JPG" alt=""></p>
+<h3 id="Ext-JS"><a href="#Ext-JS" class="headerlink" title="Ext JS"></a>Ext JS</h3><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2049/web35.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2050/web36.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2051/web37.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2052/web38.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2053/web39.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2054/web40.JPG" alt=""></p>
+<h3 id="more…"><a href="#more…" class="headerlink" title="more…"></a>more…</h3><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2055/web41.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2056/web42.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2057/web43.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2058/web44.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2059/web45.JPG" alt=""></p>
+<h2 id="二、Angular-JS-开发介绍"><a href="#二、Angular-JS-开发介绍" class="headerlink" title="二、Angular JS 开发介绍"></a>二、Angular JS 开发介绍</h2><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2060/web46.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2061/web47.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2062/web48.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2063/web49.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2064/web50.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2065/web51.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2066/web52.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2067/web53.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2068/web54.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2069/web55.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2070/web56.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2071/web57.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2072/web58.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2073/web59.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2074/web60.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2075/web61.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2076/web62.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2077/web63.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2078/web64.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2079/web65.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2080/web66.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2081/web67.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2082/web68.JPG" alt=""></p>
+<h2 id="三、开发流程分享"><a href="#三、开发流程分享" class="headerlink" title="三、开发流程分享"></a>三、开发流程分享</h2><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2083/web69.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2084/web70.JPG" alt=""></p>
+<h2 id="四、前端开发工具"><a href="#四、前端开发工具" class="headerlink" title="四、前端开发工具"></a>四、前端开发工具</h2><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2085/web71.JPG" alt=""></p>
+<h3 id="前端自动化"><a href="#前端自动化" class="headerlink" title="前端自动化"></a>前端自动化</h3><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2086/web72.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2087/web73.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2088/web74.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2089/web75.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2090/web76.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2091/web77.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2092/web78.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2093/web79.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2094/web80.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2095/web81.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2096/web82.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2097/web83.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2098/web84.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2099/web85.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2100/web86.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2101/web87.JPG" alt=""></p>
+<h3 id="版本管理"><a href="#版本管理" class="headerlink" title="版本管理"></a>版本管理</h3><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2102/web88.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2103/web89.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2104/web90.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2105/web91.JPG" alt=""></p>
+<h3 id="前端小工具"><a href="#前端小工具" class="headerlink" title="前端小工具"></a>前端小工具</h3><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2106/web92.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2107/web93.JPG" alt=""></p>
+<h2 id="结束"><a href="#结束" class="headerlink" title="结束"></a>结束</h2><p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2108/web94.JPG" alt=""></p>
+<p><img src="http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2109/web95.JPG" alt=""></p>
+
+      
+    </div>
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/Web-Trend-Develop/" rel="tag">#Web, Trend, Develop</a>
+          
+        </div>
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/works/" rel="next" title="项目经历">
+                <i class="fa fa-chevron-left"></i> 项目经历
+              </a>
+            
+          </div>
+
+          <div class="post-nav-prev post-nav-item">
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </article>
+
+
+
+    <div class="post-spread">
+      
+        <div class="ds-share flat" data-thread-key="web-trend-2015/"
+     data-title="去了一个小国企实习，我分享了2015 Web前端流行趋势"
+     data-content=""
+     data-url="http://wucan.cc/web-trend-2015/">
+  <div class="ds-share-inline">
+    <ul  class="ds-share-icons-16">
+
+      <li data-toggle="ds-share-icons-more"><a class="ds-more" href="javascript:void(0);">分享到：</a></li>
+      <li><a class="ds-weibo" href="javascript:void(0);" data-service="weibo">微博</a></li>
+      <li><a class="ds-qzone" href="javascript:void(0);" data-service="qzone">QQ空间</a></li>
+      <li><a class="ds-qqt" href="javascript:void(0);" data-service="qqt">腾讯微博</a></li>
+      <li><a class="ds-wechat" href="javascript:void(0);" data-service="wechat">微信</a></li>
+
+    </ul>
+    <div class="ds-share-icons-more">
+    </div>
+  </div>
+</div>
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+  <p>热评文章</p>
+  <div class="ds-top-threads" data-range="weekly" data-num-items="4"></div>
+
+
+          
+  <div class="comments" id="comments">
+    
+      <div class="ds-thread" data-thread-key="web-trend-2015/"
+           data-title="去了一个小国企实习，我分享了2015 Web前端流行趋势" data-url="http://wucan.cc/web-trend-2015/">
+      </div>
+    
+  </div>
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview sidebar-panel ">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <img class="site-author-image" itemprop="image"
+               src="http://7xlak7.com1.z0.glb.clouddn.com/blog%2Fimages%2Fabout%2Favatar.jpg"
+               alt="吴灿" />
+          <p class="site-author-name" itemprop="name">吴灿</p>
+          <p class="site-description motion-element" itemprop="description"></p>
+        </div>
+        <nav class="site-state motion-element">
+          <div class="site-state-item site-state-posts">
+            <a href="/archives">
+              <span class="site-state-item-count">6</span>
+              <span class="site-state-item-name">日志</span>
+            </a>
+          </div>
+          
+          
+            <div class="site-state-item site-state-categories">
+              
+                <span class="site-state-item-count">2</span>
+                <span class="site-state-item-name">分类</span>
+              
+            </div>
+          
+
+          
+            <div class="site-state-item site-state-tags">
+              <a href="/tags">
+                <span class="site-state-item-count">4</span>
+                <span class="site-state-item-name">标签</span>
+              </a>
+            </div>
+          
+
+        </nav>
+
+        
+          <div class="feed-link motion-element">
+            <a href="/atom.xml" rel="alternate">
+              <i class="fa fa-rss"></i>
+              RSS
+            </a>
+          </div>
+        
+
+        <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/wucangeo/" target="_blank">
+                  
+                    <i class="fa fa-github"></i> GitHub
+                  
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://weibo.com/country731/" target="_blank">
+                  
+                    <i class="fa fa-weibo"></i> 微博
+                  
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://www.zhihu.com/people/wucan" target="_blank">
+                  
+                    <i class="fa fa-globe"></i> 知乎
+                  
+                </a>
+              </span>
+            
+          
+        </div>
+
+        
+        
+
+        <div class="links-of-author motion-element">
+          
+        </div>
+
+      </section>
+
+      
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc-indicator-top post-toc-indicator">
+            <i class="fa fa-angle-double-up"></i>
+          </div>
+          <div class="post-toc">
+            
+              
+            
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#Angular"><span class="nav-text">Angular</span></a></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#2015-Web-前端讨论"><span class="nav-text">2015 Web 前端讨论</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#一、目前流行的前端框架"><span class="nav-text">一、目前流行的前端框架</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Angular-1"><span class="nav-text">Angular</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#React"><span class="nav-text">React</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Vue-js"><span class="nav-text">Vue.js</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Ext-JS"><span class="nav-text">Ext JS</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#more…"><span class="nav-text">more…</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#二、Angular-JS-开发介绍"><span class="nav-text">二、Angular JS 开发介绍</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#三、开发流程分享"><span class="nav-text">三、开发流程分享</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#四、前端开发工具"><span class="nav-text">四、前端开发工具</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#前端自动化"><span class="nav-text">前端自动化</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#版本管理"><span class="nav-text">版本管理</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#前端小工具"><span class="nav-text">前端小工具</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#结束"><span class="nav-text">结束</span></a></div>
+            
+          </div>
+          <div class="post-toc-indicator-bottom post-toc-indicator">
+            <i class="fa fa-angle-double-down"></i>
+          </div>
+        </section>
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  
+  &copy;  2015 - 
+  <span itemprop="copyrightYear">2016</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">吴灿</span>
+</div>
+
+<div class="powered-by">
+  由 <a class="theme-link" href="http://hexo.io">Hexo</a> 强力驱动
+</div>
+
+<div class="theme-info">
+  主题 -
+  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
+    NexT.Mist
+  </a>
+</div>
+
+
+
+      </div>
+    </footer>
+
+    <div class="back-to-top"></div>
+  </div>
+
+  
+
+
+  
+
+
+
+  <script type="text/javascript" src="/vendors/jquery/index.js?v=2.1.3"></script>
+
+  <script type="text/javascript" src="/vendors/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+
+  <script type="text/javascript" src="/vendors/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+
+  <script type="text/javascript" src="/vendors/velocity/velocity.min.js"></script>
+
+  <script type="text/javascript" src="/vendors/velocity/velocity.ui.min.js"></script>
+
+  <script type="text/javascript" src="/vendors/fancybox/source/jquery.fancybox.pack.js"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=0.5.2"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=0.5.2"></script>
+
+
+
+  
+  
+
+  
+  
+<script type="text/javascript" src="/js/src/scrollspy.js?v=0.5.2"></script>
+
+<script type="text/javascript" id="sidebar.toc.highlight">
+  $(document).ready(function () {
+    var tocSelector = '.post-toc';
+    var $tocSelector = $(tocSelector);
+    var activeCurrentSelector = '.active-current';
+
+    $tocSelector
+      .on('activate.bs.scrollspy', function () {
+        var $currentActiveElement = $(tocSelector + ' .active').last();
+
+        removeCurrentActiveClass();
+        $currentActiveElement.addClass('active-current');
+
+        $tocSelector[0].scrollTop = $currentActiveElement.position().top;
+      })
+      .on('clear.bs.scrollspy', function () {
+        removeCurrentActiveClass();
+      });
+
+    function removeCurrentActiveClass () {
+      $(tocSelector + ' ' + activeCurrentSelector)
+        .removeClass(activeCurrentSelector.substring(1));
+    }
+
+    function processTOC () {
+      getTOCMaxHeight();
+      toggleTOCOverflowIndicators();
+    }
+
+    function getTOCMaxHeight () {
+      var height = $('.sidebar').height() -
+                   $tocSelector.position().top -
+                   $('.post-toc-indicator-bottom').height();
+
+      $tocSelector.css('height', height);
+
+      return height;
+    }
+
+    function toggleTOCOverflowIndicators () {
+      tocOverflowIndicator(
+        '.post-toc-indicator-top',
+        $tocSelector.scrollTop() > 0 ? 'show' : 'hide'
+      );
+
+      tocOverflowIndicator(
+        '.post-toc-indicator-bottom',
+        $tocSelector.scrollTop() >= $tocSelector.find('ol').height() - $tocSelector.height() ? 'hide' : 'show'
+      )
+    }
+
+    $(document).on('sidebar.motion.complete', function () {
+      processTOC();
+    });
+
+    $('body').scrollspy({ target: tocSelector });
+    $(window).on('resize', function () {
+      if ( $('.sidebar').hasClass('sidebar-active') ) {
+        processTOC();
+      }
+    });
+
+    onScroll($tocSelector);
+
+    function onScroll (element) {
+      element.on('mousewheel DOMMouseScroll', function (event) {
+          var oe = event.originalEvent;
+          var delta = oe.wheelDelta || -oe.detail;
+
+          this.scrollTop += ( delta < 0 ? 1 : -1 ) * 30;
+          event.preventDefault();
+
+          toggleTOCOverflowIndicators();
+      });
+    }
+
+    function tocOverflowIndicator (indicator, action) {
+      var $indicator = $(indicator);
+      var opacity = action === 'show' ? 1 : 0;
+      $indicator.velocity ?
+        $indicator.velocity('stop').velocity({
+          opacity: opacity
+        }, { duration: 100 }) :
+        $indicator.stop().animate({
+          opacity: opacity
+        }, 100);
+    }
+
+  });
+</script>
+
+<script type="text/javascript" id="sidebar.nav">
+  $(document).ready(function () {
+    var html = $('html');
+    var TAB_ANIMATE_DURATION = 200;
+    var hasVelocity = $.isFunction(html.velocity);
+
+    $('.sidebar-nav li').on('click', function () {
+      var item = $(this);
+      var activeTabClassName = 'sidebar-nav-active';
+      var activePanelClassName = 'sidebar-panel-active';
+      if (item.hasClass(activeTabClassName)) {
+        return;
+      }
+
+      var currentTarget = $('.' + activePanelClassName);
+      var target = $('.' + item.data('target'));
+
+      hasVelocity ?
+        currentTarget.velocity('transition.slideUpOut', TAB_ANIMATE_DURATION, function () {
+          target
+            .velocity('stop')
+            .velocity('transition.slideDownIn', TAB_ANIMATE_DURATION)
+            .addClass(activePanelClassName);
+        }) :
+        currentTarget.animate({ opacity: 0 }, TAB_ANIMATE_DURATION, function () {
+          currentTarget.hide();
+          target
+            .stop()
+            .css({'opacity': 0, 'display': 'block'})
+            .animate({ opacity: 1 }, TAB_ANIMATE_DURATION, function () {
+              currentTarget.removeClass(activePanelClassName);
+              target.addClass(activePanelClassName);
+            });
+        });
+
+      item.siblings().removeClass(activeTabClassName);
+      item.addClass(activeTabClassName);
+    });
+
+    $('.post-toc a').on('click', function (e) {
+      e.preventDefault();
+      var targetSelector = NexT.utils.escapeSelector(this.getAttribute('href'));
+      var offset = $(targetSelector).offset().top;
+      hasVelocity ?
+        html.velocity('stop').velocity('scroll', {
+          offset: offset  + 'px',
+          mobileHA: false
+        }) :
+        $('html, body').stop().animate({
+          scrollTop: offset
+        }, 500);
+    });
+
+    // Expand sidebar on post detail page by default, when post has a toc.
+    NexT.motion.middleWares.sidebar = function () {
+      var $tocContent = $('.post-toc-content');
+
+      if (CONFIG.sidebar.display === 'post' || CONFIG.sidebar.display === 'always') {
+        if ($tocContent.length > 0 && $tocContent.html().trim().length > 0) {
+          NexT.utils.displaySidebar();
+        }
+      }
+    };
+  });
+</script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=0.5.2"></script>
+
+
+
+  
+
+  
+    
+  
+
+  <script type="text/javascript">
+    var duoshuoQuery = {short_name:"wucancc"};
+    (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.id = 'duoshuo-script';
+      ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0]
+      || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+  </script>
+
+  
+    
+  
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  <script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"></script>
+  <script>AV.initialize("eFRBG9IEWMYHSqL5mvQFweyP-gzGzoHsz", "tODSWROUQUzDn8EdLEQpbvIS");</script>
+  <script>
+    function showTime(Counter) {
+      var query = new AV.Query(Counter);
+      var entries = [];
+      var $visitors = $(".leancloud_visitors");
+
+      $visitors.each(function () {
+        entries.push( $(this).attr("id").trim() );
+      });
+
+      query.containedIn('url', entries);
+      query.find()
+        .done(function (results) {
+          var COUNT_CONTAINER_REF = '.leancloud-visitors-count';
+
+          if (results.length === 0) {
+            $visitors.find(COUNT_CONTAINER_REF).text(0);
+            return;
+          }
+
+          for (var i = 0; i < results.length; i++) {
+            var item = results[i];
+            var url = item.get('url');
+            var time = item.get('time');
+            var element = document.getElementById(url);
+
+            $(element).find(COUNT_CONTAINER_REF).text(time);
+          }
+        })
+        .fail(function (object, error) {
+          console.log("Error: " + error.code + " " + error.message);
+        });
+    }
+
+    function addCount(Counter) {
+      var $visitors = $(".leancloud_visitors");
+      var url = $visitors.attr('id').trim();
+      var title = $visitors.attr('data-flag-title').trim();
+      var query = new AV.Query(Counter);
+
+      query.equalTo("url", url);
+      query.find({
+        success: function(results) {
+          if (results.length > 0) {
+            var counter = results[0];
+            counter.fetchWhenSave(true);
+            counter.increment("time");
+            counter.save(null, {
+              success: function(counter) {
+                var $element = $(document.getElementById(url));
+                $element.find('.leancloud-visitors-count').text(counter.get('time'));
+              },
+              error: function(counter, error) {
+                console.log('Failed to save Visitor num, with error message: ' + error.message);
+              }
+            });
+          } else {
+            var newcounter = new Counter();
+            newcounter.set("title", title);
+            newcounter.set("url", url);
+            newcounter.set("time", 1);
+            newcounter.save(null, {
+              success: function(newcounter) {
+                var $element = $(document.getElementById(url));
+                $element.find('.leancloud-visitors-count').text(newcounter.get('time'));
+              },
+              error: function(newcounter, error) {
+                console.log('Failed to create');
+              }
+            });
+          }
+        },
+        error: function(error) {
+          console.log('Error:' + error.code + " " + error.message);
+        }
+      });
+    }
+
+    $(function() {
+      var Counter = AV.Object.extend("Counter");
+      if ($('.leancloud_visitors').length == 1) {
+        addCount(Counter);
+      } else if ($('.post-title-link').length > 1) {
+        showTime(Counter);
+      }
+    });
+  </script>
+
+
+
+
+</body>
+</html>
