@@ -139,7 +139,7 @@
     <link href="http://wucan.cc/works/"/>
     <id>http://wucan.cc/works/</id>
     <published>2016-02-28T15:18:17.000Z</published>
-    <updated>2016-03-10T08:55:18.044Z</updated>
+    <updated>2016-03-16T11:36:56.277Z</updated>
     
     <content type="html">&lt;script language=&quot;JavaScript&quot;&gt; 
     window.location=&quot;http://wucan.cc/projects&quot;; 
@@ -205,6 +205,8 @@
 &lt;h2 id=&quot;团队项目&quot;&gt;&lt;a href=&quot;#团队项目&quot; class=&quot;headerlink&quot;
     
     </summary>
+    
+      <category term="work" scheme="http://wucan.cc/categories/work/"/>
     
     
   </entry>
