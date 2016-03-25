@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wucan.cc/"/>
-  <updated>2016-03-16T07:32:04.474Z</updated>
+  <updated>2016-03-25T06:26:55.771Z</updated>
   <id>http://wucan.cc/</id>
   
   <author>
@@ -16,14 +16,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>去了一个小国企实习，我分享了2015 Web前端流行趋势</title>
+    <title>我分享了2015 Web前端流行趋势</title>
     <link href="http://wucan.cc/web-trend-2015/"/>
     <id>http://wucan.cc/web-trend-2015/</id>
     <published>2016-03-16T07:06:41.000Z</published>
-    <updated>2016-03-16T07:32:04.474Z</updated>
+    <updated>2016-03-25T06:26:55.771Z</updated>
     
     <content type="html">&lt;p&gt;如题，以下是PPT正文。&lt;/p&gt;
-&lt;h3 id=&quot;Angular&quot;&gt;&lt;a href=&quot;#Angular&quot; class=&quot;headerlink&quot; title=&quot;Angular&quot;&gt;&lt;/a&gt;Angular&lt;/h3&gt;&lt;h1 id=&quot;2015-Web-前端讨论&quot;&gt;&lt;a href=&quot;#2015-Web-前端讨论&quot; class=&quot;headerlink&quot; title=&quot;2015 Web 前端讨论&quot;&gt;&lt;/a&gt;2015 Web 前端讨论&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web01.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;可以展开右侧的目录导航栏方便浏览。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;2015-Web-前端讨论&quot;&gt;&lt;a href=&quot;#2015-Web-前端讨论&quot; class=&quot;headerlink&quot; title=&quot;2015 Web 前端讨论&quot;&gt;&lt;/a&gt;2015 Web 前端讨论&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web01.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web02.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;一、目前流行的前端框架&quot;&gt;&lt;a href=&quot;#一、目前流行的前端框架&quot; class=&quot;headerlink&quot; title=&quot;一、目前流行的前端框架&quot;&gt;&lt;/a&gt;一、目前流行的前端框架&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web03.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web04.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -31,7 +34,7 @@
 &lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web06.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web07.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web08.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Angular-1&quot;&gt;&lt;a href=&quot;#Angular-1&quot; class=&quot;headerlink&quot; title=&quot;Angular&quot;&gt;&lt;/a&gt;Angular&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web09.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Angular&quot;&gt;&lt;a href=&quot;#Angular&quot; class=&quot;headerlink&quot; title=&quot;Angular&quot;&gt;&lt;/a&gt;Angular&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web09.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web10.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web11.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web12.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -123,7 +126,10 @@
     <summary type="html">
     
       &lt;p&gt;如题，以下是PPT正文。&lt;/p&gt;
-&lt;h3 id=&quot;Angular&quot;&gt;&lt;a href=&quot;#Angular&quot; class=&quot;headerlink&quot; title=&quot;Angular&quot;&gt;&lt;/a&gt;Angular&lt;/h3&gt;&lt;h1 id=&quot;2015-Web-前端讨论&quot;&gt;&lt;a href=&quot;#
+&lt;blockquote&gt;
+&lt;p&gt;可以展开右侧的目录导航栏方便浏览。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;2015-Web-前端讨论&quot;&gt;&lt;a href=&quot;#2015-Web-前端讨论&quot; class=&quot;headerlink&quot; t
     
     </summary>
     
