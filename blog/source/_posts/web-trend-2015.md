@@ -1,5 +1,5 @@
 ---
-title: 去了一个小国企实习，我分享了2015 Web前端流行趋势
+title: 我分享了2015 Web前端流行趋势
 date: 2016-03-16 15:06:41
 tags: Web, Trend, Develop
 categories: work
@@ -7,7 +7,7 @@ categories: work
 
 如题，以下是PPT正文。
 
-### Angular
+> 可以展开右侧的目录导航栏方便浏览。
 
 # 2015 Web 前端讨论
 ![](http://7xlak7.com1.z0.glb.clouddn.com/blog/images/blog/20160316_WebTrend2015/web01.JPG)

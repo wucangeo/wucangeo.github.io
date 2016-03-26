@@ -1,6 +1,7 @@
 ---
 title: 项目经历
 date: 2016-02-28 23:18:17
+categories: work
 ---
 
 <script LANGUAGE="JavaScript"> 

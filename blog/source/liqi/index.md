@@ -31,10 +31,10 @@ date: 2016-02-28 23:19:28
 	* [曦力音视频转换](http://www.xilisoft.com/)：视频格式转换能力超一流，不过貌似中文官网没了。
 * ### 网络相关
 	* [Proxifier PE](https://www.proxifier.com/)：网络代理神器！			
-	* [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)：FQ神器，不过得自建VPS，或者买账号，配合[Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)，上网畅通无阻。
+	* [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)：FQ神器，不过得[自建VPS](https://github.com/shadowsocks/shadowsocks/wiki/Shadowsocks-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)，或者[买账号](https://shadowsocks.com/)，配合[Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)，上网畅通无阻。
 
 
-## Develop
+## 开发
 * [Sublime](https://www.sublimetext.com/)：前端工具精品，我正在用它写这些文字。
 * Chrome：
 	* [Advanced REST client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo)：测试各种访问请求。
@@ -62,7 +62,7 @@ date: 2016-02-28 23:19:28
 * [购物党全网自动比价工具](https://chrome.google.com/webstore/detail/购物党全网自动比价工具：淘宝京东美亚日亚比价、18/jgphnjokjhjlcnnajmfjlacjnjkhleah)：唯一推荐的一个购物比价。
 
 
-## Web Site 
+## 网站推荐
 * [阿里妈妈](http://www.alimama.com/)：淘宝买东西返利给自己。
 * [Google照片](https://photos.google.com/)：简直神器！！配合手机app，自动上传备份照片、自动编辑相册、自动识别人物、自动生成相册影片... 全部自动！
 * [ProcessOn](https://www.processon.com)：在线协作的Vision+Axure+JustinMind，挺不错的。
